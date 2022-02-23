@@ -1,0 +1,987 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Forms of prayer used in the reformed churches in France before their persecution and destruction With an account of their manner of batizing, celebrating the Holy Supper, marrying and burying; with some additional remarks. Translated into English, for the use of such of the French nation as do desire to learn English; and may be serviceable to those English who are willing to improve themselues in the French language; and for the information of all of the reformed religion, and others. Unto which is also annexed the names of several learned French ministers, to evidence the truth of this translation.</title>
+            <author>Eglises réformées de France.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 80 KB of XML-encoded text transcribed from 73 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39987</idno>
+            <idno type="STC">Wing F1584B</idno>
+            <idno type="STC">ESTC R221545</idno>
+            <idno type="EEBO-CITATION">99832843</idno>
+            <idno type="PROQUEST">99832843</idno>
+            <idno type="VID">37318</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39987)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37318)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2186:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Forms of prayer used in the reformed churches in France before their persecution and destruction With an account of their manner of batizing, celebrating the Holy Supper, marrying and burying; with some additional remarks. Translated into English, for the use of such of the French nation as do desire to learn English; and may be serviceable to those English who are willing to improve themselues in the French language; and for the information of all of the reformed religion, and others. Unto which is also annexed the names of several learned French ministers, to evidence the truth of this translation.</title>
+                  <author>Eglises réformées de France.</author>
+                  <author>J. T.</author>
+               </titleStmt>
+               <extent>[38], 107, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for E. Tracy at the 3 Bibles on London-bridge, and are to be sold by M. Baldwin near the Oxford-Arms in Warwick-Lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The translator to the reader." signed at end by J.T.</note>
+                  <note>Copy tightly bound.</note>
+                  <note>Reproduction of the original in the Lambeth Palace Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Eglises réformées de France --  Customs and practices --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37318:1"/>
+            <p>Forms of Prayer Uſed in the Reformed Churches in <hi>France</hi> before their Perſecution and Deſtruction. With an Account of their man<g ref="char:EOLhyphen"/>ner of Baptizing, Celebrating the Holy Supper, Marrying and Burying; with ſome Addi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>io<g ref="char:EOLhyphen"/>nal Remarks.</p>
+            <p>Tranſlated into <hi>Engliſh,</hi> for the uſe of ſuch of the <hi>French</hi> Nation as do deſire to learn <hi>Engliſh;</hi> and may be ſerviceable to thoſe <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> who are willing to improve themſelues in the <hi>French</hi> Lan<g ref="char:EOLhyphen"/>guage; and for the Informati<g ref="char:EOLhyphen"/>on of All of the Reformed Re<g ref="char:EOLhyphen"/>ligion, and others.</p>
+            <p>Unto which is alſo Annexed the Names of ſeveral Learned <hi>French</hi> Miniſters, to Evidence the truth of this Tranſlation.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>E. Tracy</hi> at the 3 <hi>Bibles</hi> on <hi>London-bridge,</hi> and are to be ſold by <hi>M. Baldwin</hi> near the <hi>Oxford-Arms</hi> in <hi>Warwick-Lane.</hi> 1699.</p>
+         </div>
+         <div type="translator_to_the_reader">
+            <pb facs="tcp:37318:2" rendition="simple:additions"/>
+            <pb facs="tcp:37318:2"/>
+            <head>THE Tranſlator TO THE READER.</head>
+            <p>HAving peruſed the Li<g ref="char:EOLhyphen"/>turgy of the reformed Churches in <hi>France,</hi> fram<g ref="char:EOLhyphen"/>ed in the beginning of the Reformation by Mr. <hi>Cal<g ref="char:EOLhyphen"/>vin,</hi> about the ſame time that the Prayers of the Church of <hi>England</hi> were
+<pb facs="tcp:37318:3"/>made, by her Reverend Bi<g ref="char:EOLhyphen"/>ſhops and Divines, to lead Men from Tautologies and Superſtitions, to the true worſhip of Almighty God, and in their known Tongues, to the end that all Men might underſtand them, and they might be uſeful, and conduce to draw the minds and affections of Men, from Temporal to Hea<g ref="char:EOLhyphen"/>venly things, and that the Miniſter, and whole Con<g ref="char:EOLhyphen"/>gregation might joyn toge<g ref="char:EOLhyphen"/>ther with their Heart and Voice, to crave Gods Gra<g ref="char:EOLhyphen"/>cious Pardon for all their daily wants, and to render thanks and praiſe to his moſt Holy Name for their
+<pb facs="tcp:37318:3"/>receiving of the ſame; and alſo obſerving the Do<g ref="char:EOLhyphen"/>ctrine and Ceremonies of the reformed Churches in <hi>France;</hi> and ſeeing the un<g ref="char:EOLhyphen"/>happy Differences and Miſ<g ref="char:EOLhyphen"/>underſtandings, that are between the Church of <hi>England</hi> and ſome other Proteſtants, and that ma<g ref="char:EOLhyphen"/>ny of her Members, and others, believed that the reformed <hi>French Church</hi> had a nearer Affinity to the <hi>Engliſh Presbyteri<g ref="char:EOLhyphen"/>ans,</hi> then to the <hi>Church</hi> of <hi>England,</hi> (as I my ſelf did, till by my fre<g ref="char:EOLhyphen"/>quenting and often hearing of the <hi>French</hi> Miniſters, I found the contrary) I
+<pb facs="tcp:37318:4"/>thought it my Duty by this Tranſlation, to undeceive all thoſe who thro' igno<g ref="char:EOLhyphen"/>rance or prejudice labour under that Error.</p>
+            <p>'Tis true, there are alrea<g ref="char:EOLhyphen"/>dy many Books Written by very Pious and Learned Men, to ſhew the miſery and unreaſonableneſs of ſeparation, and Diviſions in Religion, and the ad<g ref="char:EOLhyphen"/>vantage of a general Conformity in the ſame. The Titles of ſome of them, as of other Books that may be very uſeful on this occaſion, are hereaf<g ref="char:EOLhyphen"/>ter inſerted; that all ſuch Perſons as are Piouſly in<g ref="char:EOLhyphen"/>clined, and deſirous of <g ref="char:V">Ʋ</g>
+               <g ref="char:EOLhyphen"/>nion
+<pb facs="tcp:37318:4"/>in the Church; may with more eaſe find out ſuch neceſſary Subjects, which I hope, may tend to their ſatisfaction, and <g ref="char:V">Ʋ</g>
+               <g ref="char:EOLhyphen"/>nity in Faith, Doctrine and Prayers.</p>
+            <p>The excellency and uſe<g ref="char:EOLhyphen"/>fulneſs of our Liturgy, is explained by the Learned Doctor <hi>Cumber,</hi> and alſo by Doctor <hi>Beveridge</hi> in his Sermon upon that point.</p>
+            <p>I thought fit likewiſe, to direct you unto Mr. <hi>Hookers</hi> Eccleſiaſtical Po<g ref="char:EOLhyphen"/>lity, and unto the Caſe of a doubting Conſcience, written by the moſt Reve<g ref="char:EOLhyphen"/>rend Father in God, <hi>John
+<pb facs="tcp:37318:5"/>Sharp,</hi> the preſent Lord Arch-Biſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p of <hi>York.</hi>
+            </p>
+            <p>And the <hi>London</hi> Di<g ref="char:EOLhyphen"/>vines of the Church of <hi>England,</hi> as eſtabliſhed by Law, did with great Lear<g ref="char:EOLhyphen"/>ning, Ingenuity and Can<g ref="char:EOLhyphen"/>dor, in ſeveral Diſcourſes defend that Glori<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>us and Pious Church, of which they have the honour and happineſs to be members, againſt the ſeveral ob<g ref="char:EOLhyphen"/>jections that are uſually raiſed by Diſſenters a<g ref="char:EOLhyphen"/>gainſt her.</p>
+            <p>But what need I Name more of the Ep<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſcopal Clergy.</p>
+            <p>Mr. <hi>Baxter</hi> himſelf hath in ſeveral of his Treatiſes
+<pb facs="tcp:37318:5"/>well ſet forth the great miſchief of Diviſions and Separations; in his Chri<g ref="char:EOLhyphen"/>ſtian Directory, <hi>p. 741.</hi> he ſaith, that Schiſm is a ſin againſt ſo many clear and vehement words of the Holy Ghoſt, that it is ut<g ref="char:EOLhyphen"/>terly without excuſe; he proceeds and declares that even Whoredom, Treaſon and Perjury, are not oftener forbidden in the Goſpel then this, and that it is contrary to the deſign of Christ in our redemption, to the Spirit of Grace, and to the Nature of Chriſtia<g ref="char:EOLhyphen"/>nity it ſelf, <hi>&amp;c.</hi> That Church Dividers are the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſt ſucceſsful Servants of
+<pb facs="tcp:37318:6"/>the Devil, and Enemies to Chriſt in his Family and Livery, that they ſerve the Devil more effectually then open Enemies, and much more on this head he hath ſaid, in the pages above-cited. And you will find him quoting above forty places of Scripture againſt ſeparations, in his Cure of Church Diviſions, Direct. <hi>7.</hi> and in his de<g ref="char:EOLhyphen"/>fence of the ſaid Book, <hi>pag. 3.</hi> and ſaith, that the World, the Fleſh and the Devil, are the Cauſes whence Diviſions ariſe, all which you may ſee more al<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> large in the Books them<g ref="char:EOLhyphen"/>ſelves.</p>
+            <pb facs="tcp:37318:6"/>
+            <p>If any reply, that Mr. <hi>Baxter</hi> was a Diſſenter. I Anſwer, he is the more to be regarded by Diſſenters; But withal, it is very well known that he often heard the Divine Service, and received the Communion from the hands of the Right Reverend Doctor <hi>Sharp,</hi> then Miniſter of St. <hi>Giles</hi> in the <hi>Fields.</hi>
+            </p>
+            <p>To conclude, he that de<g ref="char:EOLhyphen"/>ſires further information of the inexpreſſible dangers which accompany Diviſi<g ref="char:EOLhyphen"/>ons, let him peruſe the Learned Mr. <hi>Edwards</hi> Book, called, <hi>Gangrena,</hi> unto which Tract I refer you; ſome, if not moſt of
+<pb facs="tcp:37318:7"/>theſe Books herein Named may be had of <hi>Samuel Ke<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ble,</hi> at the <hi>Turks Head</hi> in <hi>Fleet-ſtreet,</hi> or <hi>Walte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Kettleby,</hi> at the <hi>Biſhop Head</hi> in St. <hi>Pauls Church-Yard,</hi> or of other Bookſellers in <hi>London.</hi>
+            </p>
+            <p>But yet conſidering tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in other Treatiſes ther<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are ſo many points diſ<g ref="char:EOLhyphen"/>cuſſed; as make moſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thoſe Books ſo dear, tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all Perſons are not enclin<g ref="char:EOLhyphen"/>ed to buy them.</p>
+            <p>I have thought fit t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> preſent unto the world this ſmall Specimen of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Prayers of the reforme<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Churches in <hi>France,</hi> whic<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:37318:7"/>ſhew their Concurrence and Harmony with the Church of <hi>England,</hi> in read<g ref="char:EOLhyphen"/>ing the Holy Scriptures in their Publick Aſſemblys, and in moſt ſubſtantial points, as Confeſſions of Faith contained in the A<g ref="char:EOLhyphen"/>poſtles, <hi>Nicene &amp; Athana<g ref="char:EOLhyphen"/>ſian Creeds,</hi> and likewiſe in their Methods of VVor<g ref="char:EOLhyphen"/>ſhip, and Rules of Pra<g ref="char:EOLhyphen"/>ctice; by which you may ſee how near Divine Pro<g ref="char:EOLhyphen"/>vidence and the Holy Spi<g ref="char:EOLhyphen"/>rit, hath brought theſe Churches together.</p>
+            <p>And I am perſwaded, that if all Men would im<g ref="char:EOLhyphen"/>partially obſerve the ſame, it might prevail with con<g ref="char:EOLhyphen"/>ſidering
+<pb facs="tcp:37318:8"/>Chriſtians, and make them ſincerely uni<g ref="char:EOLhyphen"/>ted together. This Li<g ref="char:EOLhyphen"/>turgy being Compoſed in a ſmall Tract, I was the more induced to Tranſlate it into <hi>Engliſh,</hi> for the in<g ref="char:EOLhyphen"/>formation of all ſuch who can neither ſpare ſo much. Money or time, as the ob<g ref="char:EOLhyphen"/>taining and peruſing thoſe larger Volumes do require. By which all may ſee the Prayers and Service, which were and are uſed in the reformed <hi>French Chur<g ref="char:EOLhyphen"/>ches;</hi> and that this, or ſome ſuch form is uſed i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all the reformed Churches throughout <hi>Holland, Hun<g ref="char:EOLhyphen"/>gary, Brandenburg,</hi> and
+<pb facs="tcp:37318:8"/>in other Parts of <hi>Germa<g ref="char:EOLhyphen"/>ny, Switzerland,</hi> and <hi>Pi<g ref="char:EOLhyphen"/>edmont,</hi> and in all thoſe Places; where the Perſecu<g ref="char:EOLhyphen"/>tion hath not taken away the Exerciſe of the refor<g ref="char:EOLhyphen"/>med Religion, uſed by <hi>Cal<g ref="char:EOLhyphen"/>vin</hi> and his followers.</p>
+            <p>There are alſo peculiar Forms of Publick Prayers in the <hi>Tigurian Chur<g ref="char:EOLhyphen"/>ches,</hi> which are the Pro<g ref="char:EOLhyphen"/>teſtant Churches of the City, and Government of <hi>Zurick</hi> in <hi>Switzerland,</hi> as you may ſee in a Book lately Printed, and called <hi>Liturgia, Tigurina,</hi> or the Book of Common Prayers and Adminiſtration of the Sacraments, and other Ec<g ref="char:EOLhyphen"/>cleſiaſtical
+<pb facs="tcp:37318:9"/>Rites and Cere<g ref="char:EOLhyphen"/>monies, uſed in the Church<g ref="char:EOLhyphen"/>es and Chappels of <hi>Zurick.</hi>
+            </p>
+            <p>And the aforeſaid People as I have been well inform<g ref="char:EOLhyphen"/>ed, do endeavour to liv<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> up to the ſtrict Rules o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Juſtice and Piety; whic<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their Lord and Maſter hat<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> enjoyned and required fro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them.</p>
+            <p>And it is to be remark<g ref="char:EOLhyphen"/>ed that there were and ſti<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> are other Forms of Public<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Prayers uſed in the Refor<g ref="char:EOLhyphen"/>med Churches, where th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Doctrine and Diſcipline <hi>Luther</hi> hath prevailed.</p>
+            <p>Which are ſufficient prove, and to convinc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> People that ſet Forms <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb facs="tcp:37318:9"/>Prayer, were, and are uſed in other Ancient Churches, beſides thoſe of <hi>England,</hi> or <hi>Rome,</hi> and to demon<g ref="char:EOLhyphen"/>ſtrate that ſuch as reject Forms, are in that reſpect Diſſenters from <hi>Luther</hi> and <hi>Calvin,</hi> as well as from that of <hi>England,</hi> and alſo to ſhew the unannimous a<g ref="char:EOLhyphen"/>greement of the Churches before recited, and of the <hi>French</hi> Reformed with the Church of <hi>England;</hi> be<g ref="char:EOLhyphen"/>ſides, theſe Prayers will in<g ref="char:EOLhyphen"/>fallibly point out to us the frequent uſe of the Lords Prayer, the Apoſtles Creed and the Ten Command<g ref="char:EOLhyphen"/>ments, which were placed in their Churches, and ſtill
+<pb facs="tcp:37318:10"/>are the main ſubjects of their Catechiſm, which wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> taught every Lords Day and the two former are re<g ref="char:EOLhyphen"/>peated when ever they aſ<g ref="char:EOLhyphen"/>ſemble for the Publick Ser<g ref="char:EOLhyphen"/>vice.</p>
+            <p>At Baptizing an Infan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Miniſter doth ſprinkl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> water on its Forehead, whe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Name is given, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that Church makes uſe of God-Fathers and God-Mo<g ref="char:EOLhyphen"/>thers, who do undertak<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> moſt of the ſame charge o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thoſe in the Church of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+            </p>
+            <p>The <hi>French</hi> Proteſtant<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have alſo a particular Form of Prayer for Baptizing <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uch Perſons of riper years
+<pb facs="tcp:37318:10"/>as deſire and duely prepare themſelves to receive it.</p>
+            <p>The time and manner of their receiving the Holy Sacrament, is generally af<g ref="char:EOLhyphen"/>ter the Morning Sermon; which is performed with much decency and r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſpect, but for the moſt part they did receive it ſtanding in <hi>France,</hi> partly becauſe their Flocks being large, and their opportunities of receiving not frequent, they might the ſooner give place one to another: And partly, becauſe they would not fol<g ref="char:EOLhyphen"/>low the manner of the Pa<g ref="char:EOLhyphen"/>piſts among whom they li<g ref="char:EOLhyphen"/>ved, and who kneel<g ref="char:EOLhyphen"/>ed at the Communion, in
+<pb facs="tcp:37318:11"/>order to adore their Hoſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or a Wafer, yet they do ne<g ref="char:EOLhyphen"/>ver oppoſe kneeling whe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it doth not tend to Idola<g ref="char:EOLhyphen"/>try. But ſuppoſing the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> lookt upon kneeling as on<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> extreame, they took to b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſure ſitting for the other<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+            <p>But as to the ſence of it they do agree with th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Church of <hi>England,</hi> a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you may more plainly ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> towards the latter end o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their Catechiſm, which <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> often annexed to their Form of Prayers after th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Singing Pſalms, at th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> latter end of the <hi>French</hi> New Teſtament.</p>
+            <p>In the time of Perſecu<g ref="char:EOLhyphen"/>tion, before the general
+<pb facs="tcp:37318:11"/>deſtruction of their Chur<g ref="char:EOLhyphen"/>ches, the Proteſtants in <hi>France</hi> had but one hour allowed them in the Morn<g ref="char:EOLhyphen"/>ing, and another hour in the Evening for the meet<g ref="char:EOLhyphen"/>ing of the thirty People to bury the Dead, (which was the greateſt Number then permitted to attend the Corps unto the Grave) unto which they were obliged to commit them, without paying ſuch decent reſpects which are uſually done to the Corps of other Chriſti<g ref="char:EOLhyphen"/>ans, to make a difference be<g ref="char:EOLhyphen"/>tween the Bodys of Decea<g ref="char:EOLhyphen"/>ſed Chriſtians, and of ſuch Animals as have nothing but meer ſence, tho' they
+<pb facs="tcp:37318:12"/>are ſometimes put into th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Earth, yet never deſerv<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a ſolemn interment.</p>
+            <p>This Ceremony which uſed's to Deceaſed Chriſti<g ref="char:EOLhyphen"/>ans, it alſo, to put the liv<g ref="char:EOLhyphen"/>ing in mind of Mortality and therefore after the re<g ref="char:EOLhyphen"/>turn of the People from the Grave to the Decea<g ref="char:EOLhyphen"/>ſed's late Houſe, or to the place where they at firſt met; the Miniſter did make an Exhortation to admoniſh the living, and to comfort the afflicted, for the loſs of their Friend.</p>
+            <p>At firſt, when they were allowed to bury publickly, the Miniſter followed af<g ref="char:EOLhyphen"/>ter
+<pb facs="tcp:37318:12"/>the Dead, and at the interment the Miniſter made ſuch an Exhortati<g ref="char:EOLhyphen"/>on as before mentioned.</p>
+            <p>In this Book are alſo comprehended the Forms of Prayer, uſed upon Faſt<g ref="char:EOLhyphen"/>ing Days, and at the Ce<g ref="char:EOLhyphen"/>lebration of the Holy Sa<g ref="char:EOLhyphen"/>craments of Baptiſm and the Lords Supper, and al<g ref="char:EOLhyphen"/>ſo at Marriage.</p>
+            <p>Altho' their Prayers are ſhort, they comprehend moſt things for moſt con<g ref="char:EOLhyphen"/>ditions of men; ſo com<g ref="char:EOLhyphen"/>poſed, that the whole Con<g ref="char:EOLhyphen"/>gregation may joyn with the Miniſter, in praying for all neceſſaries and for Gods Love and Mercy in
+<pb facs="tcp:37318:13"/>Jeſus Chriſt, toward them, and in giving thank for the ſame.</p>
+            <p>Their affinity to the An<g ref="char:EOLhyphen"/>tient Catholick, and no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> reformed Church of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> is further demon<g ref="char:EOLhyphen"/>ſtrated by ſeveral reform<g ref="char:EOLhyphen"/>ed <hi>French</hi> Churches, in and about <hi>London,</hi> whoſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Miniſters have not only re<g ref="char:EOLhyphen"/>ceived the Ordination o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Church of <hi>England</hi> but do alſo make uſe of he Liturgy, and are confor<g ref="char:EOLhyphen"/>mable to her Orders an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Conſtitutions.</p>
+            <p>Moreover, the Prote<g ref="char:EOLhyphen"/>ſtants of <hi>Geneva, Swi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>zerland, Germany,</hi> &amp;c Eſteem her Doctrine an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:37318:13"/>Diſcipline to be Apoſtolical and Orthodox.</p>
+            <p>And the Characters which our Epiſcopal Di<g ref="char:EOLhyphen"/>vines bore in the Synod of Dort, doth plainly ſhew the great veneration they had for the reformed Church of our Kingdom.</p>
+            <p>And eſpecially <hi>Mon<g ref="char:EOLhyphen"/>ſieur le Moines</hi> Letter, written at <hi>Leyden</hi> in <hi>Sep<g ref="char:EOLhyphen"/>tember,</hi> in the Year of our Lord <hi>1680,</hi> confirms the ſame; He was at that time, and in that <g ref="char:V">Ʋ</g>ni<g ref="char:EOLhyphen"/>verſity Profeſſor of Divi<g ref="char:EOLhyphen"/>nity, and the Letters of <hi>Monſieur de Langle,</hi> one of the Miniſters of the reformed <hi>French</hi> Church at
+<pb facs="tcp:37318:14"/>
+               <hi>Charenton,</hi> and of <hi>Mon<g ref="char:EOLhyphen"/>ſieur Claude,</hi> another <hi>French</hi> Miniſter of the ſame Church, both written at <hi>Paris,</hi> do the like, and the laſt was wrote by one of the moſt Illuſtrious Men of the reformed <hi>French</hi> Church in his time.</p>
+            <p>In which he mentions, that he hath often explain<g ref="char:EOLhyphen"/>ed his Opinion, concerning the Government of the re<g ref="char:EOLhyphen"/>formed Epiſcopal Church which appears from a larger Diſcourſe upon it in the <hi>336 Page,</hi> of his defence of the Reformation.</p>
+            <p>Which Letters do like<g ref="char:EOLhyphen"/>wiſe aſcertain the giving o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their Pulpits, and commit<g ref="char:EOLhyphen"/>ting
+<pb facs="tcp:37318:14"/>the charge of their Flocks to ſuch Miniſters as had received Epiſcopal Or<g ref="char:EOLhyphen"/>dination, and particularly to <hi>Monſieur du Pleſſis,</hi> and <hi>Monſieur Wicart,</hi> who were ordained by the Right Reverend the Bi<g ref="char:EOLhyphen"/>ſhops of <hi>London</hi> and <hi>Lin<g ref="char:EOLhyphen"/>coln,</hi> the former was af<g ref="char:EOLhyphen"/>terward received Miniſter of a reformed <hi>French</hi> Church in the Province of <hi>Paris,</hi> and the latter alſo Preached afterwards in the Proteſtant Church of <hi>Cha<g ref="char:EOLhyphen"/>renton</hi> in the ſame Pro<g ref="char:EOLhyphen"/>vince, and is now Dean of <hi>Wincheſter.</hi>
+            </p>
+            <p>Theſe Letters were all ſent to the Right Reve<g ref="char:EOLhyphen"/>rend,
+<pb facs="tcp:37318:15"/>
+               <hi>Henry,</hi> preſent Lord Biſhop of <hi>London,</hi> in which you may not only ſee the particular ſentiments of thoſe Reverend Mini<g ref="char:EOLhyphen"/>ſters, but alſo the general Opinion of the reformed Churches then in <hi>France;</hi> concerning the Government and Diſcipline of the <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> Church, and of the Di<g ref="char:EOLhyphen"/>viſions that were then be<g ref="char:EOLhyphen"/>tween her and the <hi>Presby<g ref="char:EOLhyphen"/>terians</hi> and others. Which Letters were written in <hi>French,</hi> and from the Ori<g ref="char:EOLhyphen"/>ginals Tranſlated into <hi>Engliſh,</hi> and Printed in the life time of the Au<g ref="char:EOLhyphen"/>thors, they being Annexed unto the Treatiſe of the
+<pb facs="tcp:37318:15"/>unreaſonableneſs of ſepara<g ref="char:EOLhyphen"/>tion, or an Impartial ac<g ref="char:EOLhyphen"/>count of the Hiſtory of the Nature and Pleas of the preſent ſeparation from the Communion of the Church of <hi>England,</hi> written by the Reverend Doctor <hi>Stilling<g ref="char:EOLhyphen"/>fleet,</hi> now Lord Biſhop of <hi>Worceſter;</hi> one of theſe Books was ſent by the Lord Biſhop of <hi>London,</hi> unto <hi>Monſieur Claude</hi> in <hi>1681,</hi> with the ſaid Letters Printed at the latter end thereof, which Treatiſe doth alſo ſhew the Government of the <hi>African, Helvetian, &amp;c.</hi> Churches, unto which I refer you for your better Information
+<pb facs="tcp:37318:16"/>and Satisfaction.</p>
+            <p>Moreover, I thought fit to ſhew you the great averſion which the reformed <hi>French</hi> Churches had to ſeparation, as it appears by an Article made in <hi>1644,</hi> and is Printed in the ſeventh Chapter and the <hi>205</hi> and <hi>366</hi> Pages, of the Diſci<g ref="char:EOLhyphen"/>pline of the reformed Churches of <hi>France,</hi> and in the <hi>72, 73,</hi> and <hi>74</hi> Pages of this Treatiſe; it is declared that all ſuch as do make different Sects, and others, are Excom<g ref="char:EOLhyphen"/>municated from receiving the Holy Sacrament, until they do repent and unite.</p>
+            <pb facs="tcp:37318:16"/>
+            <p>You cannot well ſuppoſe, that what the Perſons be<g ref="char:EOLhyphen"/>fore mentioned have writ<g ref="char:EOLhyphen"/>ten was done out of fear or intereſt, for if you will truely conſider the ſtile of their Letters, you will find them to be Men of Lear<g ref="char:EOLhyphen"/>ning and Piety, and void of all manner of Hypo<g ref="char:EOLhyphen"/>criſie and Diſſimulation.</p>
+            <p>I know there are other <hi>French</hi> Churches whoſe Miniſters do uſe their own conſtitution, more, becauſe they were brought up there<g ref="char:EOLhyphen"/>in, then out of any motive of averſion to the <hi>Engliſh</hi> Liturgy, for they go very often to Prayers, and to hear the Sermons, and do
+<pb facs="tcp:37318:17"/>receive the Communion in the Church of <hi>England.</hi>
+            </p>
+            <p>'Tis an amazing wonder, that any ſort of Men ſhould ſo much value their own mode of Praying, as to ſlight that comprehenſive Prayer which our Lord both made and command<g ref="char:EOLhyphen"/>ed, and it grieves me, that moſt of our <hi>Engliſh</hi> Sepa<g ref="char:EOLhyphen"/>ratiſts contrary to the pra<g ref="char:EOLhyphen"/>ctice of the Church, and to the instruction given by our Bleſſed Saviour to his Diſciples (as it is written in the Goſpel of St. <hi>Mat.</hi> in the ſixth Chapter and the ninth verſe, and in that of St. <hi>Luk.</hi> in the 11th. and 2d.) do too of<g ref="char:EOLhyphen"/>ten
+<pb facs="tcp:37318:17"/>refrain, not only the uſe of the Apoſtles. Creed and the Ten Com<g ref="char:EOLhyphen"/>mandments: But alſo of the Lords Prayer, which I fear is not only a ſhame to ſuch as profeſs the Chriſti<g ref="char:EOLhyphen"/>an Religion, but is alſo a great offence unto our Lord, who hath expreſsly taught and enjoyned us when we pray, to ſay, Our Father which art in Heaven, <hi>&amp;c.</hi>
+            </p>
+            <p>But as Charity Commands us to forgive one another, I leave ſuch to the mercy of Almighty God, who is able to Pardon the greateſt offenders.</p>
+            <p>This being premiſed, to<g ref="char:EOLhyphen"/>gether with the exemplary
+<pb facs="tcp:37318:18"/>lives, Sincere and Charita<g ref="char:EOLhyphen"/>ble endeavours of our <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> Miniſtry, in ſhewing the true ground; of the An<g ref="char:EOLhyphen"/>tient, and now reformed Catholick and. Apoſtolick Religion profeſſed and taught in the Church of <hi>England;</hi> may by Gods aſſiſtance be the beſt means of bringing over the re<g ref="char:EOLhyphen"/>maining part of the <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> Diſſenters; who do not yet uſe the <hi>Engliſh</hi> Service, nor obſerve its Canons, and invite them by mutual love to conform and joyn with the Church of <hi>England,</hi> for the obtaining of Gods Bleſſings of Grace, Peace and Chriſtian Charity a<g ref="char:EOLhyphen"/>mong
+<pb facs="tcp:37318:18"/>us, or at leaſt prove them to be inexcuſable for their ſe<g ref="char:EOLhyphen"/>parating from the reformed National Church, which never excludes Prayers in private.</p>
+            <p>Good Lord, be pleaſed to open our Eyes that we may ſee what Triumph it occaſions to our ad<g ref="char:EOLhyphen"/>verſaries, to behold the many diviſions and bitter contentions among us upon the account of Religion, and that they take more advantage from diſcords among our ſelves, then from all their own Strength and Policy.</p>
+            <p>Wherefore becauſe we are beſet by Satan on one ſide, and by our Popiſh adverſaries on the other, which are enſlaving the Souls and deſtroying the Bodys of our Poor Brethren, and ſub<g ref="char:EOLhyphen"/>verting the Fundamentals of our Religion; let us all joyn with one heart, and render moſt
+<pb facs="tcp:37318:19"/>humble thanks unto God, that he hath been pleaſed by many eminent deliverances which he hath ſhewn to the Churches and Kingdoms of <hi>England</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> in preſerving us from the Power of our Enemies.</p>
+            <p>And let us moſt humbly beſeech God to be pleaſed of his Infinite Mercy and Goodneſs, to pre<g ref="char:EOLhyphen"/>vent all their wicked deſigns a<g ref="char:EOLhyphen"/>gainſt our diſtreſſed brethren and our ſelves, by defeating al<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their Malicious attempts, and the works and power of the De<g ref="char:EOLhyphen"/>vil, and to convert all our E<g ref="char:EOLhyphen"/>nemies, and to turn their and our hearts unto him.</p>
+            <p>And the Lord grant that we may put away all hatred and malice, evil ſpeaking, lying and ſlandering, and pray with true and contrite hearts for the re<g ref="char:EOLhyphen"/>miſſion of all our ſins and hei<g ref="char:EOLhyphen"/>nous
+<pb facs="tcp:37318:19"/>offences, and for the deli<g ref="char:EOLhyphen"/>very of all our Perſecuted Bre<g ref="char:EOLhyphen"/>thren, from the undermining deſigns of their Enemies, and for the Preſervation of the true Holy Catholick and Apoſtolick Church, and more eſpecially for the Church of <hi>England,</hi> and for our moſt Gracious Soveraign Lord King <hi>William,</hi> and the Royal Family, <hi>&amp;c.</hi> That he will be pleaſed to lead us by his Holy Spirit, and enrich us with his Heavenly Grace, that we may follow the good Examples of the Primitive Chriſtians, praying one for another in the ſame Words and Churches, and help<g ref="char:EOLhyphen"/>ing each other in Love, Charity, Juſtice and Truth, and that we may lay aſide all worldly intereſts, and ſet our affections on things above, and that by our leading Holy and Peaceable
+<pb facs="tcp:37318:20"/>lives, we may promote the Ho<g ref="char:EOLhyphen"/>nour and Olory of God, and of his Son Jeſus Chriſt, by ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Words and Actions, and in<g ref="char:EOLhyphen"/>duce the Papiſts and all other divided Chriſtians to do the ſame.</p>
+            <p>Finally, let us beg of God that he will bring over the <hi>Turks<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Jews</hi> and <hi>Infidels,</hi> to acknow<g ref="char:EOLhyphen"/>ledge our Lord, and to receive his Faith and Doctrine, and to call upon and Praiſe his Holy Name, and by his aſſiſtance and merits, we may be inſtrumen<g ref="char:EOLhyphen"/>tal in obtaining the ſalvation <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their and our own Immortal Souls, which is the humble and chief aim of,</p>
+            <closer>
+               <signed>Your Faithful Servant J. T.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb n="1" facs="tcp:37318:20"/>
+            <head>The FORM OF Church-Prayers, <hi>&amp;.</hi>
+            </head>
+            <p>
+               <hi>On the Week-days the Mini<g ref="char:EOLhyphen"/>ſter makes ſuch an Exhor<g ref="char:EOLhyphen"/>tation as ſeemeth good to him; accommodating it to the time, and to the ſubject which he treats of in his Sermon.</hi>
+            </p>
+            <p>
+               <hi>On the Lords-day before the Reader comes into the Church, the People uſually ſing ſome part of the Pſalms, until he ſee it a fit time to begin in this manner:</hi>
+            </p>
+            <pb n="2" facs="tcp:37318:21"/>
+            <p>OUR help is in th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Name of God, wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hath made Heaven and Earth. <hi>Amen.</hi>
+            </p>
+            <p>
+               <hi>And after ſays theſe fol<g ref="char:EOLhyphen"/>lowing words:</hi>
+            </p>
+            <p>Let us give attention with reverence and fear to the holy Word of God contained in the — Chapter: which he read<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and ſometimes one or two more, which are take<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> out of the Old or New Teſtament.</p>
+            <p>
+               <hi>Then he ſays theſe Prepa<g ref="char:EOLhyphen"/>ratory words;</hi>
+            </p>
+            <pb n="3" facs="tcp:37318:21"/>
+            <p>Let us ſing to the praiſe and glory of God, for the Edification, and to the Conſolation of our ſouls.</p>
+            <p>
+               <hi>And upon that he gives out a Pſalm, which is ſung by him and the Congregation. That being ended he reads one or two Chapters more.</hi>
+            </p>
+            <p>
+               <hi>Thus reading and ſinging alternately, till the Church be full, and the Miniſter come into the Pulpit, then the Reader repeats theſe following words:</hi>
+            </p>
+            <p>Hearken with reverence and faithful obedience un<g ref="char:EOLhyphen"/>to the holy Command<g ref="char:EOLhyphen"/>ments of God, contained
+<pb n="4" facs="tcp:37318:22"/>in the 20th Chapter <hi>Exodus, which he reads.</hi>
+            </p>
+            <p>
+               <hi>Then the Miniſter begi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> by this following Prayer:</hi>
+            </p>
+            <p>Our help is in the nam<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of God, who hath ma<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Heaven and Earth. <hi>Ame<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+            </p>
+            <p>
+               <hi>An Exhortation.</hi>
+            </p>
+            <p>Brethren, let every o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of you preſent himſelf be<g ref="char:EOLhyphen"/>fore the Lord, hearti<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> confeſſing his ſins, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſaying after me.</p>
+            <p>
+               <hi>The Confeſſion.</hi>
+            </p>
+            <p>Lord God Almighty
+<pb n="5" facs="tcp:37318:22"/>and everlaſting Father, we ſincerely confeſs and c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>knowledge before thy ho<g ref="char:EOLhyphen"/>ly Majeſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, that we are miſerable ſinners, concei<g ref="char:EOLhyphen"/>ved and born in iniquity and Corruption, inclined to do evil, and averſe to do good; and that by our ſins we continually tranſ<g ref="char:EOLhyphen"/>greſs thy holy Command<g ref="char:EOLhyphen"/>ments: whereby we juſt<g ref="char:EOLhyphen"/>ly incur thy Divine Ven<g ref="char:EOLhyphen"/>geance: But, O Lord, we are truly ſorrowful for our offences, we condemn our ſelves, and are ſincerely penitent for our ſins, im<g ref="char:EOLhyphen"/>ploring the aſſiſtance of thy Grace in this our mi<g ref="char:EOLhyphen"/>ſerable condition.</p>
+            <pb n="6" facs="tcp:37318:23"/>
+            <p>Grant us therefore thy pity, O God, moſt graci<g ref="char:EOLhyphen"/>ous and merciful Father, in the Name of thy Son Je<g ref="char:EOLhyphen"/>ſus Chriſt our Lord. Blo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> out our ſins and iniquities beſtow and daily increaſe in us the gifts of thy holy Spirit, that we heartily acknowledging our un<g ref="char:EOLhyphen"/>righteouſneſs, may be deeply affected with ſor<g ref="char:EOLhyphen"/>row, which begets a true repentance in us, whereby being dead to ſin, we may bring forth ſuch Fruits o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Righteouſneſs and Holi<g ref="char:EOLhyphen"/>neſs, that may be accept able unto thee by the ſame Jeſus Chriſt our Lord.</p>
+            <p>
+               <hi>Amen.</hi>
+            </p>
+            <pb n="7" facs="tcp:37318:23"/>
+            <p>
+               <hi>Vhis being done, the Mi<g ref="char:EOLhyphen"/>niſter ſaith,</hi> Let us ſing to the honour and glory of God, and for the conſola<g ref="char:EOLhyphen"/>tion of our ſouls; <hi>and gi<g ref="char:EOLhyphen"/>veth out part of ſome Pſalm which is ſung.</hi>
+            </p>
+            <p>
+               <hi>Afterward he begins a<g ref="char:EOLhyphen"/>gain to pray, and to</hi> deſire of God the grace of his holy Spirit, that his word may be faithfully ex<g ref="char:EOLhyphen"/>pounded to the honour of his Name, and to the Edification of the Church; and that it may be receiv<g ref="char:EOLhyphen"/>ed with ſuch humility and obedience as is meet.</p>
+            <p>
+               <hi>The Form of this prayer is left to the diſcretion of the Miniſter.</hi>
+            </p>
+            <pb n="8" facs="tcp:37318:24"/>
+            <p>
+               <hi>At the end of which h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> repeats the Lords Prayer and after that theſe fol<g ref="char:EOLunhyphen"/>lowing preparatory words</hi>
+            </p>
+            <p>The word of God tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> we are to explain, you ſhall find— <hi>an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> nameth the Text.</hi>
+            </p>
+            <p>
+               <hi>At the end of the Ser<g ref="char:EOLhyphen"/>mon, the Miniſter having read the Bills for the ſick and made ſome Exhortati<g ref="char:EOLhyphen"/>ons to prayer, he begins in this manner:</hi>
+            </p>
+            <p>Almighty God, and Heavenly Father, tho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> haſt promiſed to gran<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our Requeſts that we
+<pb n="9" facs="tcp:37318:24"/>ſhall make unto thee in the name of thy beloved Son Jeſus Chriſt our Lord; and we are alſo taught by him, and his Apoſtles, to aſſemble our ſelves together in his Name, promiſing he will be in the midſt of us, and that he will be our Inter<g ref="char:EOLhyphen"/>ceſſor towards thee, for the obtaining all thoſe things that are needful for us, which we ſhall agree to pray for upon Earth.</p>
+            <p>We are firſt command<g ref="char:EOLhyphen"/>ed to pray for thoſe whom thou haſt ſet over us, as Superiors and Governors: likewiſe in the behalf of
+<pb n="10" facs="tcp:37318:25"/>all thy people in neceſſi<g ref="char:EOLhyphen"/>ty, and for all mankind; therefore truſting in thy holy Doctrine and Pro<g ref="char:EOLhyphen"/>miſes, for as much as we are here aſſembled in thy preſence, and in the name of thy Son Jeſus Chriſt, we heartily beſeech thee, good God and Father, in the name of thy Son our only Saviour, and Medi<g ref="char:EOLhyphen"/>ator, to grant us, thro' thy infinite mercy, the free pardon of all our ſins, and be pleaſed ſo to draw and raiſe our thoughts and deſires to<g ref="char:EOLunhyphen"/>wards thee, that we may make our ſupplications with all our hearts, ac<g ref="char:EOLhyphen"/>cording
+<pb n="11" facs="tcp:37318:25"/>to thy will, and which is only moſt juſt and good.</p>
+            <p>
+               <hi>Then the Miniſter prays for the King and the Royal Family by name.</hi>
+            </p>
+            <p>We pray thee there<g ref="char:EOLhyphen"/>fore, O heavenly Father, for all Kings, Princes and Governours, thy Serv<g ref="char:EOLhyphen"/>ants, unto whom thou haſt committed the diſ<g ref="char:EOLhyphen"/>penſation of thy Juſtice, &amp; particularly for <hi>W.</hi> &amp;c. that it may pleaſe thee to endue them all with thy holy Spirit, which alone is the truly principal good. Increaſe thoſe gifts
+<pb n="12" facs="tcp:37318:26"/>daily in them, that they acknowledging with a true Faith Jeſus Chriſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thy Son our Lord, to be King of Kings, and Lord of Lords, as thou haſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> given him all power i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Heaven, and on Earth they may ſeek to ſerve him, and to exat hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Kingdom in their Domi<g ref="char:EOLhyphen"/>nions, governing their Subjects, who are the works of thy hands, and the Sheep of thy Paſture according to thy will, ſo that we here, and all men through the whole Earth, being maintained in peace, and delivered from the fear of our E<g ref="char:EOLhyphen"/>nemies,
+<pb n="13" facs="tcp:37318:26"/>may praiſe thee all the Days of our Lives.</p>
+            <p>
+               <hi>A Prayer for the Miniſtry.</hi>
+            </p>
+            <p>We alſo pray thee, O Father and Saviour, for all thoſe whom thou haſt appointed Paſtors over thy faithful Flock, and unto whom thou haſt committed the Charge of Souls, and the diſpenſati<g ref="char:EOLhyphen"/>on of thy holy Goſpel; that it may pleaſe thee to guide them by thy holy Spirit, that they may be found true and faithful Miniſters of thy Goſpel, always endeavouring that all thy poor diſperſed
+<pb n="14" facs="tcp:37318:27"/>Flock may be gathered, and brought unto the Lord Jeſus Chriſt, the principal Paſtor, and chief Biſhop, that through him they may daily improve in all Righteouſneſs and Holineſs. Moreover, we beſeech thee to deliver all thy Churches from the mouths of Ravening Wolves, and from all mercenary men, who do only ſeek after their ow<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> profit, and to gratifi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their ambition, and have no regard to the advance<g ref="char:EOLhyphen"/>ment of thy holy Name nor to the ſalvation o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thy Flock.</p>
+            <pb n="15" facs="tcp:37318:27"/>
+            <p>We alſo pray thee; moſt gracious and mer<g ref="char:EOLhyphen"/>ciful Father, for all man<g ref="char:EOLhyphen"/>kind in general, and as thou wilt be acknowled<g ref="char:EOLhyphen"/>ged Saviour of the whole world by the Redempti<g ref="char:EOLhyphen"/>on thereof, purchaſed by thy Son Jeſus Chriſt, grant that ſuch as are ſtill ſtrangers to him, being in Darkneſs, Error and Ignorance, may by the illumination of thy holy Spirit, and by the preach<g ref="char:EOLhyphen"/>ing of thy Goſpel, be brought to the true way of ſalvation, which is to know thee the only true God, and him whom thou haſt ſent, Jeſus Chriſt,
+<pb n="16" facs="tcp:37318:28"/>that thoſe whom thou haſt already viſited with thy grace, and enlightne<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by the knowledge of thy word, may daily increaſe in goodneſs, and being enriched with thy ſpiri<g ref="char:EOLhyphen"/>tual bleſſing, we may a<g ref="char:EOLhyphen"/>dore thee altogether with one heart, and one mouth and give honour and obe<g ref="char:EOLhyphen"/>dience unto thy Chriſt, our Maſter, King and Legiſlator.</p>
+            <p>We likewiſe recom<g ref="char:EOLhyphen"/>mend unto thee, O God of all Comfort, all thoſe whom thou viſits, and chaſtiſeſt, by Croſſes or Tribulations, and alſo thoſe people whom thou
+<pb n="17" facs="tcp:37318:28"/>doſt afflict by War, Pe<g ref="char:EOLhyphen"/>ſtilence or Famine, and all ſuch who do ſuffer by Want, Impriſonment, Sickneſs, Baniſhment, or any other Calamity in Body or Mind, and (eſ<g ref="char:EOLhyphen"/>pecially all thoſe for whom our prayers are deſired) be pleaſed to make them ſenſible of thy Fatherly Affection, which is to viſit them in order to their amendment, that they may be heartily con<g ref="char:EOLhyphen"/>verted unto thee, and be<g ref="char:EOLhyphen"/>ing converted, may re<g ref="char:EOLhyphen"/>ceive perfect conſolation, and be delivered from all evil.</p>
+            <p>We more eſpecially re<g ref="char:EOLhyphen"/>commend
+<pb n="18" facs="tcp:37318:29"/>unto thee all our poor Brethren who are diſperſed under the Tyranny of Antichriſt, being deſtitute of the Food of Life, and depri<g ref="char:EOLhyphen"/>ved of the liberty of thy publick Service; and all thoſe who are detained Priſoners, or perſecuted by the Enemies of thy Goſpel; that it may pleaſe thee, O gracious Father, to ſtrengthen them by the aſſiſtance of thy holy Spirit, ſo that they may never fall from thy word, but may con<g ref="char:EOLhyphen"/>ſtantly perſevere in thy holy Religion; help and aſſiſt them according to
+<pb n="19" facs="tcp:37318:29"/>their ſeveral neceſſities, comfort them in their af<g ref="char:EOLhyphen"/>flictions, preſerve them from the rage of Wolves, and increaſe in them all the gifts of thy Spirit, to the end that they may glorifie thee both in Life and Death.</p>
+            <p>Finally, O God and Father, grant alſo to us who are here aſſembled in the Name of thy Son Jeſus Chriſt, for the ſake of his word, and of his holy Communion, that we may ſincerely, and without hypocriſie ac<g ref="char:EOLhyphen"/>knowledge how miſera<g ref="char:EOLhyphen"/>ble we are by Nature, and what Condemnations we
+<pb n="20" facs="tcp:37318:30"/>deſerve, and daily draw down upon our ſelves by our wicked and diſorder<g ref="char:EOLhyphen"/>ly Lives, that we ſeeing there is no good thing in us, and that our Fleſh and Blood are not capable of inheriting thy Kingdom, we may with all affection and ſteadfaſt confidence, intirely ſurrender up ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſelves unto thy dear Son Jeſus Chriſt, our only Saviour and Redeemer; that he dwelling in us, may mortifie our old <hi>A<g ref="char:EOLhyphen"/>dam,</hi> and renew in us? better Life, whereby thy holy and glorious Name may be exalted and glo<g ref="char:EOLhyphen"/>rified by all, and in all places.</p>
+            <pb n="21" facs="tcp:37318:30"/>
+            <p>
+               <hi>Then he proceeds thus:</hi>
+            </p>
+            <p>Hear us, O merciful Fath<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r, for Jeſus Chriſts ſake, in whoſe Name and words we further call upon thee, <hi>Our Father,</hi> &amp;c.</p>
+            <p>
+               <hi>The Miniſter having ſaid the Lords Prayer and the Apoſtles Creed, he gives ſome part of the Pſalms, which is ſung; and before the Congregations g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> forth of the Church, he gives the following B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>diction: (which is according to what our Lord commanded in the ſixth Chapter of</hi> Num<g ref="char:EOLhyphen"/>bers:)</p>
+            <p>The Lord bleſs you, and keep you; the Lord make
+<pb n="22" facs="tcp:37318:31"/>his Face to ſhine upo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you, and be gracious un<g ref="char:EOLhyphen"/>to you; the Lord lift up his countenance upon yo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and give you peace. <hi>Ame<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+            </p>
+            <p>
+               <hi>A further Bleſſing th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Miniſter ſays to the people</hi>
+            </p>
+            <p>Go in Peace, and fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Love of God remem<g ref="char:EOLhyphen"/>ber the Poor.</p>
+            <p>
+               <hi>This following Pray<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is added to the former i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> time of great danger an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> diſtreſs.</hi>
+            </p>
+            <p>And alſo as thou ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Dominion and Go<g ref="char:EOLhyphen"/>vernment over us all
+<pb n="23" facs="tcp:37318:31"/>grant that we may daily learn more and more to ſubmit and humble our ſelves before thy Majeſty; and as thou art King and Ruler every where, we beſeech thee to guide thy People by thy Word, and by the Efficacy of thy Spirit, confounding thy Enemies by the power of thy Truth and Juſtice, that ſo all Power and Do<g ref="char:EOLhyphen"/>minion contrary to thy Glory, may be daily de<g ref="char:EOLhyphen"/>ſtroyed, and brought to nought, until thy King<g ref="char:EOLhyphen"/>dom be perfected, and fully eſtabliſhed; when thou ſhalt appear in Judg<g ref="char:EOLhyphen"/>ment in the Perſon of thy
+<pb n="24" facs="tcp:37318:32"/>Son. Grant that we and all Creatures may render thee true and perfect O<g ref="char:EOLhyphen"/>bedience, even as th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Heavenly Angels wai<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> only to execute thy Com<g ref="char:EOLhyphen"/>mands, ſo that thy Wil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may be intirely fullfilled and that all may devot<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> themſelves to thy Service and Pleaſure, and re<g ref="char:EOLhyphen"/>nounce their own Wills and all the deſires of thei<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fleſh. Grant that we may walk in the love and fea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of thy Name, and be nou<g ref="char:EOLhyphen"/>riſhed by thy bountifu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> goodneſs that thou giv<g ref="char:EOLhyphen"/>ing us all things which are needful and expedien<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for us, we may eat ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="25" facs="tcp:37318:32"/>Bread in peace; and ſeeing that thou careſt for us, we may the better acknow<g ref="char:EOLhyphen"/>ledge thee to be our Fa<g ref="char:EOLhyphen"/>ther, and expect all good things from thy hand; and by withdrawing our con<g ref="char:EOLhyphen"/>fidence from all Creatures may place it wholly in thee, and in thy goodneſs, becauſe in as much as du<g ref="char:EOLhyphen"/>ring this mortal Life, we are poor ſinners, ſo full of frailty that we continually fall, and go aſtray from the right way, be pleaſed to pardon all our ſins, whereby we are liable to thy Judgment, and to de<g ref="char:EOLhyphen"/>liver us by thy pardon from the Eternal Death,
+<pb n="26" facs="tcp:37318:33"/>in which we are; that may pleaſe thee not t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> impute to us our Iniqu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ties, as we according t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thy Commandment pa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>don all the Injuries w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have received from <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>thers, and inſtead of ſee<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ing Vengeance, do goo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to our Enemies.</p>
+            <p>Finally, we pray, tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it may pleaſe thee to ſup<g ref="char:EOLhyphen"/>port us henceforth by th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> power, that we may n<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> fall through the infirmit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of our fleſh; and for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> much as we are ſo wea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of our ſelves that we can not continue ſteadfaſt on moment, and on the othe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſide ſo continually ſur<g ref="char:EOLhyphen"/>rounded
+<pb n="27" facs="tcp:37318:33"/>and aſſaulted by ſo many Enemies, as the Devil, the World, Sin, and our Fleſh not ceaſing to war againſt us, grant we may be ſtrengthned with thy holy Spirit, and ſo armed with thy grace, that we may conſtant<g ref="char:EOLhyphen"/>ly reſiſt all Temptations and perſevere in that ſpi<g ref="char:EOLhyphen"/>ritual Warfare, until we ſhall obtain a full Victory and Triumph at length in thy Kingdom, with our Captain and Protector, our Lord Jeſus Chriſt.</p>
+            <p>
+               <hi>Amen.</hi>
+            </p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>pon ſuch days as they celebrate the Lords Supper, they add to the former this following Prayer:</hi>
+            </p>
+            <pb n="28" facs="tcp:37318:34"/>
+            <p>As our Lord Jeſus Chriſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hath not only once offer'd his Body and Blood unto thee upon the Croſs fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the remiſſion of our ſins but alſo communicate them unto us for our nou<g ref="char:EOLhyphen"/>riſhment to eternal life grant that we may with true ſincerity of heart and ardent Zeal, receiv<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſuch benefits by a tru<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Faith, that we may par<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> take of his Body an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Blood, yea, and enjoy the<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> entirely: he being tru<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God and true Man, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> truly the holy Celeſti<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Bread to quicken us, t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the end that we may liv<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> no more to our ſelves, ac<g ref="char:EOLhyphen"/>cording
+<pb n="29" facs="tcp:37318:34"/>to our vicious and corrupt nature; but that he may live in us, and bring us to an holy, bleſ<g ref="char:EOLhyphen"/>ſed and eternal life; grant therefore that we may be made true partakers of the new and everlaſting Co<g ref="char:EOLhyphen"/>venant of Grace; being fully aſſur'd that thou wilt ever be to us a gracious Father, in not imputing our ſins unto us; and as to thy beloved Children and Heirs, wilt provide for us all things neceſſary, as well for our Bodies as Souls, that we may conti<g ref="char:EOLhyphen"/>nually give thee thanks, and glorifie thy holy Name by Words and
+<pb n="30" facs="tcp:37318:35"/>Works. Therefore, hea<g ref="char:EOLhyphen"/>venly Father, give us grace this day to celebrate the bleſſed memory o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thy Dear Son, in this manner, and to ſet forth the benefit of his Death; ſo that we receiving new increaſe and ſtrength in Faith, and in all goodneſs, may with the greater con<g ref="char:EOLhyphen"/>fidence call thee <hi>Our Fa<g ref="char:EOLhyphen"/>ther,</hi> and glory in thee.</p>
+            <p>
+               <hi>Amen.</hi>
+            </p>
+            <p>
+               <hi>After the holy Sacrament is ended, they uſe this fol<g ref="char:EOLhyphen"/>lowing Thankſgiving, or the like.</hi>
+            </p>
+            <p>Heavenly Father, we give thee Eternal Praiſe and Thanks, in that thou
+<pb n="31" facs="tcp:37318:35"/>haſt beſtowed upon us, poor ſinners, ſo great a bleſſing, and brought us to the Communion of thy Son Jeſus Chriſt our Lord, having delivered him un<g ref="char:EOLhyphen"/>to Death for us, and given him for our ſpiritual nou<g ref="char:EOLhyphen"/>riſhment unto life everla<g ref="char:EOLhyphen"/>ſting. Grant that we may never forget thy mercies, but having them engraft<g ref="char:EOLhyphen"/>ed in our hearts, we may continually grow and in<g ref="char:EOLhyphen"/>creaſe in good works; and in ſo doing we may order all our lives to the ad<g ref="char:EOLhyphen"/>vancement of thy glory, and to the Edification of our Neighbours, by the ſame Jeſus Chriſt thy
+<pb n="32" facs="tcp:37318:36"/>Son, who in the Unity o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the holy Spirit, liveth and reigneth with thee God eternally bleſſed. <hi>Amen.</hi>
+            </p>
+            <p>For as much as the Scripture teaches, That Wars, Peſtilence, and o<g ref="char:EOLhyphen"/>ther ſuch Adverſities are Viſitations ſent from God, by which he puniſheth us for our ſins; when we ſee them coming, we muſt acknowledge that God is diſpleaſed with us, and as true Chriſtians we muſt confeſs our ſins, and be grieved in our ſelves, re<g ref="char:EOLhyphen"/>turning unto the Lord by Repentance and Amend<g ref="char:EOLhyphen"/>ment of life, and pray unto him with true humi<g ref="char:EOLhyphen"/>lity,
+<pb n="33" facs="tcp:37318:36"/>that we may obtain pardon.</p>
+            <p>Wherefore if at any time we ſee that God threatens us, to the end that we may not tempt his Patience, but rather prevent his Judgments, which otherwiſe we may perceive to hang over our heads, it is meet that we ſhould keep one day in e<g ref="char:EOLhyphen"/>very week on which theſe things eſpecially ſhould be repreſented, and in which we muſt make Prayers and Supplications according to the Exigen<g ref="char:EOLhyphen"/>cy of the times.</p>
+            <p>
+               <hi>For which here follows a proper Form.</hi>
+            </p>
+            <pb n="34" facs="tcp:37318:37"/>
+            <p>
+               <hi>Before the beginning of the Sermon they uſe the ge<g ref="char:EOLhyphen"/>neral Confeſſion, as before written, and uſed on the Lords Day.</hi>
+            </p>
+            <p>
+               <hi>At the end of the Sermon, having remonſtrated to the people, that God afflicts Men becauſe of their Offen<g ref="char:EOLhyphen"/>ces which are committed up<g ref="char:EOLhyphen"/>on the Earth, and that the World is given up to al<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Iniquity; having alſo ex<g ref="char:EOLhyphen"/>horted the people to convert and amend their Lives, and to pray unto God to obtain mercy, they uſe this following Form of Prayer:</hi>
+            </p>
+            <p>Almighty God, and Heavenly Father, we do acknowledge and confeſs
+<pb n="35" facs="tcp:37318:37"/>as the Truth is, that we are not worthy to lift up our Eyes to Heaven, to preſent our ſelves before thee; and that we ought not to preſume ſo far as to think that thou wilt hear our prayers, if thou ſhoul<g ref="char:EOLhyphen"/>deſt mark what is amiſs in us; for our Conſciences accuſe us, and our ſins bear Witneſs againſt us, and we know that thou art a Juſt Judge, who doſt not juſtifie ſinners, but puniſheſt the ſins of thoſe who have tranſgreſs'd thy holy Commandments; therefore, O Lord, when we conſider our whole Lives, we are aſhamed at
+<pb n="36" facs="tcp:37318:38"/>our hearts, and cannot but ſink down in deſpair, as if we were already in the gulph of Death. But, Lord, ſince it hath pleaſed thee in thy infinite mercy to command us, that we ſhould call upon thee; and the greater our Weakneſs and Miſery is, we ſhould with ſo much the greater Confidence betake our ſelves to thy Soveraign Bounty, ſince thou haſt promiſed us to receive our ſupplications and requeſts not in reſpect of our own worthineſs, but in the Name, and by the Merits of our Lord Jeſus Chriſt whom thou haſt made to
+<pb n="37" facs="tcp:37318:38"/>be our Advocate and In<g ref="char:EOLhyphen"/>terceſſor; we do therefore renounce all humane con<g ref="char:EOLhyphen"/>fidence, and do altogether rely on thy ſole goodneſs, and preſent our ſelves be<g ref="char:EOLhyphen"/>fore thee to call upon thy holy Name for mercy.</p>
+            <p>Firſt, Lord, beſides the infinite benefits which thou haſt in general be<g ref="char:EOLhyphen"/>ſtowed upon all men in the world, thou haſt done us ſo many ſingular Fa<g ref="char:EOLhyphen"/>vours, that it is impoſſible for us to declare, or ſuffi<g ref="char:EOLhyphen"/>ciently to comprehend them; and in particular it hath pleaſed thee to call us to the knowledge of thy Goſpel, and to draw us
+<pb n="38" facs="tcp:37318:39"/>from the miſerable ſlavery of the Devil, in which we were detained, delivering us from the Curſe of Ido<g ref="char:EOLhyphen"/>latry and Superſtition, in which we were plunged, to guide us into the light of thy truth; yet by our Ingratitude we have for<g ref="char:EOLhyphen"/>gotten the benefits which we have receiv'd from thy hand, and have gone a<g ref="char:EOLhyphen"/>ſtray, and turned our ſelves from thee after our own Luſts; we have not given that honour and o<g ref="char:EOLhyphen"/>bedience to thy holy Word which we ought, neither have we praiſed and glorified thee as it behoved us to do; and al<g ref="char:EOLhyphen"/>though
+<pb n="39" facs="tcp:37318:39"/>though thou haſt always faithfully admoniſhed us by thy Word, yet we have not hearkned to thy Ad<g ref="char:EOLhyphen"/>monitions; therefore we have ſinn'd, Lord, and of<g ref="char:EOLhyphen"/>fended againſt thee; this covers us with ſhame and confuſion, confeſſing that we are grievouſly guilty before thy Judgment-Seat; and if that thou ſhould'ſt deal with us ac<g ref="char:EOLhyphen"/>cording to what we de<g ref="char:EOLhyphen"/>ſerve, we might expect nothing but Death and Damnation; for when we would excuſe our ſelves, our Conſciences accuſe us, and our Iniquities are be<g ref="char:EOLhyphen"/>fore thee to condemn us;
+<pb n="40" facs="tcp:37318:40"/>and indeed Lord we ſee by the Puniſhments which are already come upon us, that thou art Juſtly diſ<g ref="char:EOLhyphen"/>pleaſed with us; for as thou art Juſt and upright, it is not without Cauſe that thou doſt afflict thy People; having therefore been chaſtized with thy Rod, we acknowledge that we have provoked thee againſt us, and now we behold thy hand ſtill lift<g ref="char:EOLhyphen"/>ed up to puniſh us; for the Sword with which thou wert wont to execute thy Vengeance is unſheathed, and the threatnings which thou haſt made againſt the wicked and ungodly are
+<pb n="41" facs="tcp:37318:40"/>ready to be executed. But tho thou ſhould'ſt puniſh us much more ſeverely than thou haſt hitherto done, and that for one Plague we ſhould receive an hundred; and ſhould'ſt even ſuffer ſuch Calami<g ref="char:EOLhyphen"/>ties to fall upon us as thou didſt afflict thy People of <hi>Iſrael</hi> with; yet we muſt confeſs that it were juſt with thee, and no more than what we have fully deſerved.</p>
+            <p>However, Lord, thou art our Father, and we are but Duſt and Aſhes; thou art our Creator, and we are the works of thy hands; thou art our Pa<g ref="char:EOLhyphen"/>ſtor,
+<pb n="42" facs="tcp:37318:41"/>and we are thy flock; thou art our Redeemer, and we are the people thou haſt redeemed; thou art our God, and we are thine Heritage; therefore be not ſo angry with us as to cor<g ref="char:EOLhyphen"/>rect us in thy fury, neither remember our Iniquities to puniſh them, but cha<g ref="char:EOLhyphen"/>ſtiſe us lovingly in thy mercy. By reaſon of our ſins thine Anger is infla<g ref="char:EOLhyphen"/>med, but remember that we are call'd by thy name, and that we bear thy ſign and Token. Maintain therefore the work thou haſt begun in us by thy grace, that all the Earth may know that thou art
+<pb n="43" facs="tcp:37318:41"/>our God and Saviour; thou knoweſt that the Dead in the Grave, &amp; thoſe whom thou haſt deſtroyed, can<g ref="char:EOLhyphen"/>not praiſe thee, but ſor<g ref="char:EOLhyphen"/>rowful and afflicted ſouls, contrite hearts, and Con<g ref="char:EOLhyphen"/>ſciences oppreſſed with the ſence of their ſins, and longing after thy grace, ſhall give thee glory and praiſe. Thy People of <hi>Iſrael</hi> often provoked thee to Anger by their Iniqui<g ref="char:EOLhyphen"/>ties; thou didſt Juſtly afflict them by thy Juſt Judgments: but when they did return unto thee thou didſt always in pity receive them: were their Offences never ſo heinous,
+<pb n="44" facs="tcp:37318:42"/>for the ſake of thy Cove<g ref="char:EOLhyphen"/>nant which thou mad'ſt with thy Servants, <hi>Abra<g ref="char:EOLhyphen"/>ham, Iſaac</hi> and <hi>Jacob,</hi> thou didſt turn away thoſe E<g ref="char:EOLhyphen"/>vils, and thy Rods which were prepared againſt them; ſo that their Pray<g ref="char:EOLhyphen"/>ers were never rejected by thee. We have by thy Grace a much better Co<g ref="char:EOLhyphen"/>venant to rely on than they, which thou haſt made and eſtabliſhed in Jeſus Chriſt our Lord, which thou waſt pleaſed ſhould be written with his Blood, and ratified by his Death and Paſſion; there<g ref="char:EOLhyphen"/>fore, Lord, renouncing our ſelves and all humane
+<pb n="45" facs="tcp:37318:42"/>hopes, we have recourſe unto that bleſſed Cove<g ref="char:EOLhyphen"/>nant, by which our Lord Jeſus, in offering his Body as a Sacrifice, hath recon<g ref="char:EOLhyphen"/>ciled us unto thee; look then, Lord, on the Face of thy Chriſt, and not on us, that by his Interceſſion thy Anger may be appea<g ref="char:EOLhyphen"/>ſed, and thy Face may ſhine upon us with joy to our ſalvation, and grant we may henceforth be re<g ref="char:EOLhyphen"/>ceived into thy holy con<g ref="char:EOLhyphen"/>duct, and guided by thy holy Spirit, which may regenerate us into a better life, by which thy Name may be hallowed, thy Kingdom come, thy Will be done, <hi>&amp;c.</hi>
+            </p>
+            <pb n="46" facs="tcp:37318:43"/>
+            <p>And altho we are not worthy to open our mouths unto thee for our ſelves, and to call upon thee in our neceſſities, yet ſince it hath pleaſed thee to command us to pray one for another, we pray thee for all our poor Bre<g ref="char:EOLhyphen"/>thren and Fellow-mem<g ref="char:EOLhyphen"/>bers, whom thou doſt viſit with the Rod of thy cor<g ref="char:EOLhyphen"/>rection, beſeeching thee to turn thine Anger from them, and more eſpecially for <hi>N. N.</hi> that it may pleaſe thee, Lord, to re<g ref="char:EOLhyphen"/>member they are thy Chil<g ref="char:EOLhyphen"/>dren, as we are; and altho they have offended thee, yet ceaſe not to extend
+<pb n="47" facs="tcp:37318:43"/>thy wonted goodneſs and mercy towards them; which thou haſt promiſed ſhould continue for ever to all thy faithful. Look down with pity, we be<g ref="char:EOLhyphen"/>ſeech thee, upon thy whole Church and People at this time afflicted by War, Peſtilence or Famine, and alſo upon all perſons which do ſuffer by Sick<g ref="char:EOLhyphen"/>neſs, Impriſonment, or Poverty; comfort them all according to their ſe<g ref="char:EOLhyphen"/>veral Neceſſities; make them to profit by thy Correction, endue them with patience, and let not thy whole Diſpleaſure a<g ref="char:EOLhyphen"/>riſe againſt them, but in
+<pb n="48" facs="tcp:37318:44"/>the end deliver them, and cauſe them fully to rejoice in thy goodneſs, and to bleſs thy Name.</p>
+            <p>Eſpecially that it may pleaſe thee to look down upon all, and every one of thoſe who do labour in the defence of thy Truth, ſtrengthen them with in<g ref="char:EOLhyphen"/>vincible conſtancy, pro<g ref="char:EOLhyphen"/>tect and aſſiſt them how<g ref="char:EOLhyphen"/>ever diſperſed or diſtreſ<g ref="char:EOLhyphen"/>ſed; defeat all the Plots &amp; Practices of their &amp; thy Enemies; reſtrain their fury, and confound all their wicked attempts a<g ref="char:EOLhyphen"/>gainſt thee and the Mem<g ref="char:EOLhyphen"/>bers of thy Church; let not thy Inheritance be
+<pb n="49" facs="tcp:37318:44"/>brought to deſolation, nor ſuffer the memory of thy Name to be aboliſhed; permit not thoſe to periſh who call upon thy Name, nor the <hi>Turks, Pagans,</hi> or any other <hi>Infidels</hi> to re<g ref="char:EOLhyphen"/>joice in blaſpheming of thee.</p>
+            <p>
+               <hi>Then followeth a part of the Sundays Prayer; where<g ref="char:EOLhyphen"/>in they pray for the King, and the Royal Family,</hi> &amp;c.</p>
+         </div>
+         <div type="part">
+            <head>The FORM of Admi<g ref="char:EOLhyphen"/>niſtration of Baptiſm.</head>
+            <p>
+               <hi>It is to be obſerved that thoſe Children which are to
+<pb n="50" facs="tcp:37318:45"/>be Baptized, ought to be brought on the Lord's Day at the time of Catechiſing, or on ſome other days of Preaching, to the end tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Baptiſm being a ſolemn Re<g ref="char:EOLhyphen"/>ception into the Church, i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhould be performed in the preſence of the Congrega<g ref="char:EOLhyphen"/>tion.</hi>
+            </p>
+            <p>
+               <hi>At the end of the Sermon they preſent the Children, and then the Miniſter begins to ſay,</hi>
+            </p>
+            <p>OUR help is in the Name of God, who hath made Heaven and Earth. <hi>Amen.</hi>
+            </p>
+            <p>Do you preſent thi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Child to be baptized?</p>
+            <pb n="51" facs="tcp:37318:45"/>
+            <p>
+               <hi>Anſ.</hi> Yes.</p>
+            <p>
+               <hi>The Miniſter.</hi>
+            </p>
+            <p>Our Lord ſhews us what Poverty and Miſery we are all born in, telling us we muſt be born again; for if our Nature muſt be renewed, that we may have an entrance into the Kingdom of God, it is a ſign that it is wholly cor<g ref="char:EOLhyphen"/>rupt and evil, in that he admoniſhes us to humble and diſlike our ſelves, and ſo he prepares us to deſire and ſeek after his grace, by which all the Depravi<g ref="char:EOLhyphen"/>ty and Corruption of our Original ſtate, may be a<g ref="char:EOLhyphen"/>boliſhed; for we are not able to receive it before
+<pb n="52" facs="tcp:37318:46"/>we are void of all confi<g ref="char:EOLhyphen"/>dence in our own good<g ref="char:EOLhyphen"/>neſs, Wiſdom and Righte<g ref="char:EOLhyphen"/>ouſneſs, ſo as to diſclaim all that is in us.</p>
+            <p>Now when he makes us ſenſible of our miſery, he likewiſe comforts us by his mercy, promiſing to regenerate us by his holy Spirit into a New Life which may be to us a an entrance into his King<g ref="char:EOLhyphen"/>dom. This Regeneration conſiſts in Two Points, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> That we ſhould deny ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſelves, and not follow ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> own Reaſon, Will an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Pleaſure, but ſubmit ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Underſtanding and Heart to the Juſtice and Wiſdo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="53" facs="tcp:37318:46"/>of God; and that we ſhould mortify all that is in us, and our Carnal Luſts. 2. That we ſhould follow the Light of God to pleaſe him, and to obey his Will and good pleaſure, as he teacheth us by his word, and leads us thereto by his Spirit. The fullfilling of both theſe is in our Lord Jeſus Chriſt, whoſe Death and Paſſion hath ſuch Vertue, that in our partaking thereof we are dead to ſin, that our Carnal Luſts may be mortified; likewiſe by the Vertue of his Reſur<g ref="char:EOLhyphen"/>rection, we do riſe from ſin unto a new and godly
+<pb n="54" facs="tcp:37318:47"/>life, ſeeing his Spirit go<g ref="char:EOLhyphen"/>verns and leads us to do ſuch works as are accept<g ref="char:EOLhyphen"/>able unto him. Now the firſt and chief Point of our Salvation is, that he by his mercy pardoneth all ſins, not imputing them unto us, but blotting out the memory of them, that they may not ſtand in judgment againſt us; all theſe Graces he confers upon us when it pleaſeth him to incorporate us into his Church by Baptiſm; for in this Sacrament he declareth the Remiſſion of our ſins; and therefore he ordained the ſign of the Water to repreſent
+<pb n="55" facs="tcp:37318:47"/>unto us, that as by this Element our bodily filth and Pollutions are clean<g ref="char:EOLhyphen"/>ſed, ſo he will waſh and purifie our Souls, that they may be without blemiſh. Moreover, he there repreſents to us our Regeneration, which con<g ref="char:EOLhyphen"/>ſiſts as before inſtanced, in the Mortification of our fleſh, and in the Spi<g ref="char:EOLhyphen"/>ritual Life, which he produceth in us. Thus we receive a double be<g ref="char:EOLhyphen"/>nefit from God in Bap<g ref="char:EOLhyphen"/>tiſm, if we do not make the vertue of this Sacra<g ref="char:EOLhyphen"/>ment of none effect by our Ingratitude. Firſt, We have thereby a real
+<pb n="56" facs="tcp:37318:48"/>aſſurance that God will be our gracious Father, in not imputing our ſins and offences to us; And, Secondly, That he will aſſiſt us by his holy Spi<g ref="char:EOLhyphen"/>rit, that we may be able to fight againſt the De<g ref="char:EOLhyphen"/>vil, Sin, and the Luſts of our fleſh, until we ob<g ref="char:EOLhyphen"/>tain Victory over them, that we may get Free<g ref="char:EOLunhyphen"/>dom in his Kingdom, which is the Kingdom of Righteouſneſs and Ju<g ref="char:EOLhyphen"/>ſtice; therefore ſeeing that theſe two things are thus wrought in us by the grace of Jeſus Chriſt, it followeth, that the vertue and ſubſtance of
+<pb n="57" facs="tcp:37318:48"/>Baptiſm is comprehend<g ref="char:EOLhyphen"/>ed in ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Saviour; and we indeed can no other<g ref="char:EOLhyphen"/>wiſe be cleanſed than by his Blood, nor renewed but by his Death and Re<g ref="char:EOLhyphen"/>ſurrection; but as he communicates his Riches and Bleſſings to us by his Word, ſo he diſtri<g ref="char:EOLhyphen"/>butes them unto us by his Sacraments.</p>
+            <p>Now our good God hath not only been plea<g ref="char:EOLhyphen"/>ſed to adopt us for his Children, and receive us into the Communion of his Church, but alſo hath more abundantly exten<g ref="char:EOLhyphen"/>ded his goodneſs towards us, in promiſing, that he
+<pb n="58" facs="tcp:37318:49"/>will be our God, and the God of our Poſterity, unto a thouſand Genera<g ref="char:EOLhyphen"/>tions; therefore, tho the Children of the Faithful be of the corrupted Seed of <hi>Adam,</hi> yet he receives them by the vertue of that Covenant, into the Number of his own; therefore he would here<g ref="char:EOLhyphen"/>tofore that in his Church the Children ſhould re<g ref="char:EOLhyphen"/>ceive the ſign of Cir<g ref="char:EOLhyphen"/>cumciſion, figuring there<g ref="char:EOLhyphen"/>by the ſame, as is now re<g ref="char:EOLhyphen"/>preſented unto us in Bap<g ref="char:EOLhyphen"/>tiſm; and as he did com<g ref="char:EOLhyphen"/>mand, that they ſhould be Circumciſed, ſo he did alſo own them for his
+<pb n="59" facs="tcp:37318:49"/>Children, calling him<g ref="char:EOLhyphen"/>ſelf their God, as he was the God of their Fathers.</p>
+            <p>Now therefore as our Lord Jeſus did not come down from Heaven to leſſen the Grace of God, his Father, but to enlarge his Covenant of Salvati<g ref="char:EOLhyphen"/>on through all the world, which was before limited to the people of the <hi>Jews,</hi> there is no doubt but our Children are heirs of that Life which he hath pro<g ref="char:EOLhyphen"/>miſed unto us; and there<g ref="char:EOLhyphen"/>fore St. <hi>Paul</hi> ſaith, the Children of the Faithful are holy, to diſtinguiſh them from the Children of <hi>Pagans</hi> and <hi>Infidels;</hi>
+               <pb n="60" facs="tcp:37318:50"/>for this Reaſon our Sa<g ref="char:EOLhyphen"/>viour received the Chil<g ref="char:EOLhyphen"/>dren which they preſent<g ref="char:EOLhyphen"/>ed unto him, as it is writ<g ref="char:EOLhyphen"/>ten in the 19th Chapter of St. <hi>Matthew,</hi> the 13th and 14th verſes, <hi>Then were there brought unto him little Children, that he ſhould put his hands on them, and pray; and the Diſciples rebuked them; but Jeſus ſaid, Suffer lit<g ref="char:EOLhyphen"/>tle Children, and forbid them not to come unto me; for of ſuch is the Kingdom of Heaven.</hi>
+            </p>
+            <p>Now ſeeing he declares that the Kingdom of Hea<g ref="char:EOLhyphen"/>ven belongs to them, and that he layeth his hands
+<pb n="61" facs="tcp:37318:50"/>on them, and recommen<g ref="char:EOLhyphen"/>deth them to God his Fa<g ref="char:EOLhyphen"/>ther, he fufficiently teach<g ref="char:EOLhyphen"/>eth us, that we ought not to exclude them from his Church; therefore, ac<g ref="char:EOLhyphen"/>cording to this Rule, we will receive this Child in<g ref="char:EOLhyphen"/>to his Church; that he may be made partaker of thoſe benefits which God hath promiſed to his Faithful; and we will firſt humbly preſent him unto God by our Prayers, ſaying with all our heart,</p>
+            <p>Lord God; Eternal and Everlaſting Father, ſince it hath pleaſed thee by thy infinite goodneſs to
+<pb n="62" facs="tcp:37318:51"/>promiſe us, that thou wilt be a God to us and to our Children, we pray that it may pleaſe thee to confirm thy Grace in this Child here preſent, begotten of <hi>parents</hi> whom thou haſt called into thy Church, and as he is of<g ref="char:EOLhyphen"/>fered and conſecrated un<g ref="char:EOLhyphen"/>to thee by us, receive him into thy holy protection, declaring thy ſelf to be his God and Saviour, by pardoning the Original ſins which the whole Race of <hi>Adam</hi> are guilty of. Sanctify him alſo by thy Spirit, that when he ſhall come to the uſe of Knowledge, he may own
+<pb n="63" facs="tcp:37318:51"/>and adore thee as his only God, in glorifying thee all his Days, that he may obtain of thee the remiſ<g ref="char:EOLhyphen"/>ſion of his ſins, and to the end that he may obtain ſuch grace, be pleaſed to incorporate him into the Communion of our Lord Jeſus Chriſt, and make him partaker of all his Benefits, as one of the Members of his Body. Hear us, merciful Father, that the Baptiſm we are to communicate unto him, according to thy Ordinance, may produce ſuch Fruits and Vertues in him, as are declared to us in thy Goſpel. (<hi>Our
+<pb n="64" facs="tcp:37318:52"/>Father which art in Hea<g ref="char:EOLhyphen"/>ven,</hi> &amp;c.</p>
+            <p>Seeing we are about to receive this Child into the Congregation of the Chriſtian Church, do you promiſe when he ſhall come to years of diſcre<g ref="char:EOLhyphen"/>tion, to inſtruct him in the Doctrine which is re<g ref="char:EOLhyphen"/>ceived by the People of God, as it is briefly com<g ref="char:EOLhyphen"/>prehended in the Confeſ<g ref="char:EOLhyphen"/>ſion of Faith which we all profeſs? (<hi>I believe in God, the Father Almigh<g ref="char:EOLhyphen"/>ty, maker of Heaven,</hi> &amp;c.)</p>
+            <p>Do you promiſe to take pains to inſtruct him in all this Doctrine, and
+<pb n="65" facs="tcp:37318:52"/>generally in all that is contained in the holy Scripture of the Old and New Teſtaments, that he may receive it as the true Word of God come from Heaven? You muſt alſo exhort him to live accor<g ref="char:EOLhyphen"/>ding to the Rule which our Lord hath given us in his Law, which doth briefly conſiſt in theſe Two Points, That we ſhould love God with all our minds, and with all our heart, and with all our ſtrength, and our Neighbour as our ſelves; likewiſe according to the Exhortations that the hath given by his Pro<g ref="char:EOLhyphen"/>phets
+<pb n="66" facs="tcp:37318:53"/>and Apoſtles, that this Child, renouncing himſelf and all his Car<g ref="char:EOLhyphen"/>nal Deſires, ſhould dedi<g ref="char:EOLhyphen"/>cate himſelf unto the glory of the Name of God, and of Jeſus Chriſt, and to the Edification of his Neighbour.</p>
+            <p>
+               <hi>After the Promiſe is made (the Godfather ſpea<g ref="char:EOLhyphen"/>king to the Miniſter), the Child hath his Name giv<g ref="char:EOLhyphen"/>en him; and then the Mi<g ref="char:EOLhyphen"/>niſter, ſprinkling water on the For<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>head, baptizing him, ſaying, (with a loud voice,)</hi>
+            </p>
+            <p>
+               <hi>N.</hi> I baptize thee in the Name of the Father,
+<pb n="67" facs="tcp:37318:53"/>and of the Son, and of the Holy Ghoſt.</p>
+            <p>
+               <hi>The whole being audibly performed in the vulgar Tongue, that all they which are preſent may underſtand, and be Witneſſes to what is done, and be edified in ac<g ref="char:EOLhyphen"/>knowledging, and calling to mind what is the Fruit and <g ref="char:V">Ʋ</g>ſe of their Baptiſm.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <pb n="68" facs="tcp:37318:54"/>
+            <head>THE MANNER OF Celebrating the Ho<g ref="char:EOLhyphen"/>ly Supper.</head>
+            <p>
+               <hi>IT is to be obſerved, that they declare to the People on the Lords day, before the holy Sacrament is given; Firſt, that eve<g ref="char:EOLhyphen"/>ry one may prepare him<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lf to receive it wor<g ref="char:EOLhyphen"/>thily, and with ſuch Re<g ref="char:EOLhyphen"/>verence as it behoves him to do. Secondly That
+<pb n="69" facs="tcp:37318:54"/>they do not admit any chil<g ref="char:EOLhyphen"/>dren, but ſuch as are well inſtructed, and have made profeſſion of their Faith in the Church. Thirdly, if there come any Stran<g ref="char:EOLhyphen"/>gers that are yet ignoraut, to preſent themſelves, they ſhould come to be inſtructed firſt in private. The day it is to be celebrated, the Minister ſpeaks of it at the end of his Sermon; or if it be neceſſary, makes his Sermon wholly upon it, to explain to the people what our Lord did ſignify by this Myſtery, and in what man<g ref="char:EOLhyphen"/>ner we muſt receive it.</hi>
+            </p>
+            <p>
+               <hi>After the Prayers and Confeſſion of Faith are
+<pb n="70" facs="tcp:37318:55"/>made, to teſtify in the Name of the People, that all would live and die in the Chriſtian Doctrine and Religion, he ſays with a loud voice;</hi>
+            </p>
+            <p>Let us hear my bre<g ref="char:EOLhyphen"/>thren, how Jeſus Chriſt hath inſtituted for us his holy Supper, as St. <hi>Paul</hi> ſaith in the 11th <hi>chap.</hi> of the firſt Epiſt. to the <hi>Co<g ref="char:EOLhyphen"/>rinthians; I have recei<g ref="char:EOLhyphen"/>ved of the Lord that which alſo I delivered unto you, that the Lord Jeſus, the ſame night in which he was betrayed, took bread; and when he had given thanks, he brake it, and ſaid, Take,
+<pb n="71" facs="tcp:37318:55"/>eat; this is my Body, which is broken for you; this do in remembrance of me. After the ſame manner he alſo took the Cup when he had ſupped, ſaying, This Cup is the New Teſtament in my Blood: This do ye as oft as ye drink it, in remembrance of me. For as often as ye eat this Bread, and drink this Cup, ye do ſhew the Lords death till he come; Wherefore whoſoever ſhall eat this Bread, and drink this Cup of the Lord <g ref="char:V">Ʋ</g>nworthily, ſhall be guilty of the Body and Blood of the Lord. But let a man examine himſelf, and ſo let him eat
+<pb n="72" facs="tcp:37318:56"/>of that Bread, and drink of that Cup; for he that eateth and drinketh <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>worthily, eateth and drin<g ref="char:EOLhyphen"/>keth Damnation to him<g ref="char:EOLhyphen"/>ſelf, not diſcerning the Lords Body.</hi>
+            </p>
+            <p>Brethte, we have heard how our Lord made his Supper amongſt his Diſciples; which ſhews us, That <hi>Aliens,</hi> and ſuch that are not of the Number of his Faith<g ref="char:EOLhyphen"/>ful, ſhould not be admit<g ref="char:EOLhyphen"/>ted thereto. Therefore according to that Rule, in the Name, and by the Authority of the Lord Jeſus Chriſt, I do Excom<g ref="char:EOLhyphen"/>municate
+<pb n="73" facs="tcp:37318:56"/>all Idolaters, Blaſphemers, and con<g ref="char:EOLhyphen"/>temners of God; Here<g ref="char:EOLhyphen"/>ticks, and all people that make ſeparate Sects to break the Union of the Church; all that are Per<g ref="char:EOLhyphen"/>jured, and all thoſe who are Diſobedient to Parents or to their Superiors; all Seditious, Mutinous Stri<g ref="char:EOLhyphen"/>kers, Litigious. Adulte<g ref="char:EOLhyphen"/>rers, Whoremongers, Thieves, Covetous, U<g ref="char:EOLhyphen"/>ſurers, Extortioners, Drunkards, Gluttons, &amp; all ſuch as lead a wicked or ſcandalous Life; de<g ref="char:EOLhyphen"/>claring unto them, that they muſt abſtain from this holy. Table, for fear
+<pb n="74" facs="tcp:37318:57"/>of defiling and polluting of this holy Food, which our Lord Jeſus Chriſt doth not give but to his faithful ſervants.</p>
+            <p>Therefore, according to St. <hi>Paul</hi>'s Exhortation, let every one of you ex<g ref="char:EOLhyphen"/>amine his own Conſci<g ref="char:EOLhyphen"/>ence, to know if he doth truly &amp; ſincerely repent; reſolving hereafter to live holily, according to the Will of God, and above all if he puts his Truſt in the Mercy of God; wholly ſeeking his ſalva<g ref="char:EOLhyphen"/>tion in and through Je<g ref="char:EOLhyphen"/>ſus Chriſt; and renoun<g ref="char:EOLhyphen"/>cing all Enmity and Ha<g ref="char:EOLhyphen"/>tred, have a true deſire
+<pb n="75" facs="tcp:37318:57"/>and reſolution to live in brotherly Love and Cha<g ref="char:EOLhyphen"/>rity with his Neigh<g ref="char:EOLhyphen"/>bours.</p>
+            <p>If we have this Teſti<g ref="char:EOLhyphen"/>mony in our hearts be<g ref="char:EOLhyphen"/>fore God, let us not at all doubt but that he will receive us for his Chil<g ref="char:EOLhyphen"/>dren; and that the Lord Jeſus invites us unto his Table, and to this holy Sacrament, which he hath communicated unto his Diſciples.</p>
+            <p>And although we are conſcious of our great Frailty and Miſery, in not having a True Faith, being inclined to Incre<g ref="char:EOLhyphen"/>dulity and Diffidence;
+<pb n="76" facs="tcp:37318:58"/>and in not being ſo en<g ref="char:EOLhyphen"/>tirely devoted to ſerve God with ſuch zeal as we ought, being daily ſtruggling with the Luſts of our Fleſh; yet ſeeing our Lord hath by his Grace engraven his Goſ<g ref="char:EOLhyphen"/>pel in our Hearts, and hath given us the deſire and will of Turning our ſelves from our Carnal Luſts, to follow his luſt &amp; holy Commandments; Let us be aſſured, that our Sins and Imperfecti<g ref="char:EOLhyphen"/>ons will not hinder us from being received by him, and made Worthy Partakers of that Spiri<g ref="char:EOLhyphen"/>tual Table. For we do
+<pb n="77" facs="tcp:37318:58"/>not come there, preſu<g ref="char:EOLhyphen"/>ming that we are perfect or juſt in otr ſelves. But on the contrary, by ſeek<g ref="char:EOLhyphen"/>ing our Life in Jeſus Chriſt, we do confeſs we are dead; therefore let us underſtand that this Sacrament is a Remedy for the poor, ſpiritually ſick: and all the worthi<g ref="char:EOLhyphen"/>neſs which our Lord re<g ref="char:EOLhyphen"/>quires of us, is, that we ſhould examine our ſelves, and be grieved for our Sins, and to place our Delight, Joy, and Con<g ref="char:EOLhyphen"/>tentment in him alone</p>
+            <p>Let us therefore firſt believe theſe promiſes which Jeſus Chriſt, who
+<pb n="78" facs="tcp:37318:59"/>is the infallible truth, hath declared with his own Mouth; Namely, that he will make us true partakers of his Body and Blood, that we may ſo entirely enjoy him as to live in him, and he in us; and altho we do ſee no<g ref="char:EOLhyphen"/>thing but Bread and Wine, yet let us not doubt but that he will Spiritually accompliſh in our Souls, all that he hath outwardly ſhewn us by theſe viſible ſigns, which is to ſay, that he is the Heavenly Bread, to feed and nouriſh us to Eternal Life: So let us not be ungrateful to the
+<pb n="79" facs="tcp:37318:59"/>infinite bounty of our Sa<g ref="char:EOLhyphen"/>viour, who diſplays all his Riches and Benefits on this Table, in order to Communicate them unto us, for in giving himſelf unto us, he ſig<g ref="char:EOLhyphen"/>nifies to us, that all he hath is ours. Therefore let us receive this Sacra<g ref="char:EOLhyphen"/>ment as a Pledge, that the virtue of his Death and Paſſion is imputed to us for Righteouſneſs, as if we had ſuffered in our own Bodies. Let us not be ſo perverſe as to refrain from this Table, when Jeſus Chriſt hath ſo kindly invited us by his word; but weighing
+<pb n="80" facs="tcp:37318:60"/>the dignity of this preci<g ref="char:EOLhyphen"/>ous gift, let us preſent our ſelves unto him with ſuch fervent Zeal, as may make us capable of re<g ref="char:EOLhyphen"/>ceiving him.</p>
+            <p>Wherefore let us raiſe up our hearts and minds on high, where Jeſus Chriſt is in the Glory of his Father, from whence we do expect him for our Redemption; and let us not amuſe our ſelves with theſe Earthly and Cor<g ref="char:EOLhyphen"/>ruptible Elements which we ſee with the Eye, and touch with the Hand, nor ſeek him there as if he were in the Bread and Wine, for then our Souls
+<pb n="81" facs="tcp:37318:60"/>will be diſpoſed to be nouriſhed and quickned with his ſubſtance, when they ſhall be raiſed above all Earthly things into Heaven, the K<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngdom of God, where our Saviour dwells, let us then con<g ref="char:EOLhyphen"/>tent our ſelves in our ha<g ref="char:EOLhyphen"/>ving the Bread and Wine for Signs and Tokens, ſeeking Spiritually the truth, where the word of God promiſes that we ſhall find it.</p>
+            <p>
+               <hi>(After the Miniſter hath admoniſhed the People to come with reverence and in good order: He diſtri<g ref="char:EOLhyphen"/>butes the Bread, and gives the Cup to the People, and
+<pb n="82" facs="tcp:37318:61"/>in the mean time they ſing ſome Pſalms, or read ſome part of the Holy Scrip<g ref="char:EOLhyphen"/>ture that is agreeable to that which is ſignified by the Sacrament.)</hi>
+            </p>
+            <p>
+               <hi>(And after, he makes uſe of the thankſgiving as hath been before-ſaid.)</hi>
+            </p>
+         </div>
+         <div type="part">
+            <pb n="83" facs="tcp:37318:61"/>
+            <head>THEIR FORM OF <hi>Solemnization</hi> OF Matrimony.</head>
+            <p>
+               <hi>YO<g ref="char:V">Ʋ</g> muſt obſerve that before the Celebration of the Marriage, They do publiſh it three Lords Days ſucceſſively in the Church, that if any Per<g ref="char:EOLhyphen"/>ſon
+<pb n="84" facs="tcp:37318:62"/>knows any Lawful im<g ref="char:EOLhyphen"/>pediment, he or ſhe may come to declare it in good time, or if any other Per<g ref="char:EOLhyphen"/>ſon have any intereſt there<g ref="char:EOLhyphen"/>in, he or ſhe may there op<g ref="char:EOLhyphen"/>poſe it.</hi>
+            </p>
+            <p>
+               <hi>(That being done, both Parties come and preſent themſelves at the begining of the Sermon, then the Miniſter ſays.)</hi>
+            </p>
+            <p>Our help is in the Name of God who hath made Heaven and Earth. <hi>Amen.</hi>
+            </p>
+            <p>After that God our Father had Created Heaven and Earth, and all that in them is,
+<pb n="85" facs="tcp:37318:62"/>He created and made Man after his own Im<g ref="char:EOLhyphen"/>age, who ſhould have Dominion and Power over all the Beaſts of the Earth, the Fiſh of the Sea, and Fowls of the Air, <hi>Gen.</hi> 2. And the Lord God ſaid, <hi>It is not good that the Man ſhould be alone:</hi> I will make him an help meet for him. And the Lord God cauſed a deep ſleep to fall upon Adam, and he ſlept; and he took one of his Ribs, and the Rib which the Lord God had taken from Man, made he a Woman; ſignifying, that the Man and the Wo<g ref="char:EOLhyphen"/>man
+<pb n="86" facs="tcp:37318:63"/>are but one Body, one Fleſh, and one Blood, therefore ſhall a Man leave his Father, and his Mother, and ſhall cleave unto his Wife; which he ought to love as Chriſt loved his Church, which are the true Faithful Chri<g ref="char:EOLhyphen"/>ſtians for whom he Dy<g ref="char:EOLhyphen"/>ed. The Wife ought alſo to ſerve and obey her Husband in all Holineſs and Honeſty, for ſhe is ſubject, and is in the Power of her Husband ſo long as ſhe lives with him; this Holy Marri<g ref="char:EOLhyphen"/>age which is inſtituted by God is of that Nature, that by it<g ref="char:punc">▪</g> the Husband
+<pb n="87" facs="tcp:37318:63"/>hath no Power over his Body but the Wife, nor hath the Wife any Power over her Body but the Husband: Therefore be<g ref="char:EOLhyphen"/>ing joyned by God they cannot be parted, unleſs it be for ſometime by conſent of both, to apply themſelves to Faſting and Prayer; bewaring they be not tempted by Satan to incontinency, wherefore they are to come together again, to avoid all uncleanneſs: Every Man ought to have his Wife, and every Woman her Husband. So that all thoſe who have not the gift of con<g ref="char:EOLhyphen"/>tinency
+<pb n="88" facs="tcp:37318:64"/>are to Marry, that the Holy Temple of God which is our Bodys ſhould not be defiled and corrupted, for ſeeing that our Bodys are the Mem<g ref="char:EOLhyphen"/>bers of J<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſus Chriſt, it would be a great re<g ref="char:EOLhyphen"/>proach to make them Members of an Harlot, therefore we muſt keep them in all Holyneſs, for if any defile the Temple of God, him will God deſtroy.</p>
+            <p>You then Naming the Bridegroom and the Bride <hi>N. N.</hi> knowing, that God hath ordained it thus, will you live in the Holy State of Ma<g ref="char:EOLhyphen"/>trimony,
+<pb n="89" facs="tcp:37318:64"/>which God hath ſo greatly honour<g ref="char:EOLhyphen"/>ed? have you ſuch an in<g ref="char:EOLhyphen"/>tention, as you do here declare before this holy aſſembly, deſiring that it ſhould be confirmed?</p>
+            <p>They Anſwer. Yes.</p>
+            <p>
+               <hi>(The Miniſter.)</hi>
+            </p>
+            <p>I take you all, that are here preſent as Witneſſes, deſiring you to remem<g ref="char:EOLhyphen"/>ber it, yet if there be any who know any im<g ref="char:EOLhyphen"/>pediment in it, or that either of them be Mar<g ref="char:EOLhyphen"/>ried to any other, let him declare the ſame.</p>
+            <p>
+               <hi>(If no Perſon oppoſes it, the Miniſter ſays thus.)</hi>
+            </p>
+            <pb n="90" facs="tcp:37318:65"/>
+            <p>Since there is no Per<g ref="char:EOLhyphen"/>ſon that oppoſes it, and that there is no impedi<g ref="char:EOLhyphen"/>ment: Our Lord God confirm that holy deſign which he hath given you, let your begining be in the Name of God; who hath made Heaven and Earth. <hi>Amen.</hi>
+            </p>
+            <p>
+               <hi>(The Miniſter ſpeaking to the Bridegroom, ſays thus:)</hi>
+            </p>
+            <p>
+               <hi>N.</hi> Do you confeſs here before God, and this holy Aſſembly, that you have taken, and do take <hi>M.</hi> here preſent, for your Wedded Wife, and do you promiſe to keep her, in Loving, and faithfully
+<pb n="91" facs="tcp:37318:65"/>maintaining her, as the duty of a Loving Hus<g ref="char:EOLhyphen"/>band towards his VVife requireth; Living Holily with Her, keeping Faith and Loyalty in all things, according to the word of God, and of his Holy Goſpel.</p>
+            <p>Anſwer. Yes.</p>
+            <p>
+               <hi>(After ſpeaking to the Bride the Miniſter ſays,)</hi>
+            </p>
+            <p>
+               <hi>M.</hi> Do you confeſs here before God, and this holy aſſembly, that you have taken and do take <hi>N.</hi> here preſent for your Lawful Husband, do you promiſe to obey him, ſerving and being ſub<g ref="char:EOLhyphen"/>ject unto him, living a
+<pb n="92" facs="tcp:37318:66"/>holy life, Keeping ſaith and loyalty with him in all things, as a faithful and loyal wife ought to do towards her husband, according to the Word of God, and of his holy Goſpel?</p>
+            <p>
+               <hi>Anſwer.</hi> Yes.</p>
+            <p>
+               <hi>(Then the Miniſter doth ſay,)</hi>
+            </p>
+            <p>The Father of all mercy, who hath called you by his Grace to this holy State, for the love of his Son Jeſus Chriſt, who did ſanctify Marriage by his holy preſence, and where<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t he wrought his firſt Miracle before his Apoſtles, give you his
+<pb n="93" facs="tcp:37318:66"/>holy Spirit to ſerve and honour him together with one accord. <hi>Amen.</hi>
+            </p>
+            <p>Hear the Goſpel, in which our Lord ſhews how he would have ho<g ref="char:EOLhyphen"/>ly Matrimony to be kept; and how it is firm, and indiſſolvable, as it is writ<g ref="char:EOLhyphen"/>ten in the 19th of St. <hi>Matthew.</hi>
+            </p>
+            <p>
+               <hi>The Phariſees alſo came unto him, tempting him, and ſaying unto him, Is it lawful for a man to put a<g ref="char:EOLhyphen"/>way his Wife for every cauſe? and he anſwer<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and ſaid unto them, have ye not read, that he which made them at the beginning, made them Male and Fe<g ref="char:EOLhyphen"/>male,
+<pb n="94" facs="tcp:37318:67"/>and ſaid, for this cauſe ſhall a man leave Fa<g ref="char:EOLhyphen"/>ther and Mother, and cleave unto his Wife, and they twain ſhall be one Fleſh; wherefore they are no more twain, but one Fleſh; what therefore God hath Joyned together, let no man put aſunder.</hi>
+            </p>
+            <p>Believe theſe Holy Words which our Lord hath ſpoken; as they are contained in the holy Goſpel, be aſſured that our Lord God hath joined you in holy Matrimony. Therefore live holily to<g ref="char:EOLhyphen"/>gether in Love, Peace and Unity, keeping true Cha<g ref="char:EOLhyphen"/>rity, Faith and Loyalty,
+<pb n="95" facs="tcp:37318:67"/>one toward another, accord<g ref="char:EOLhyphen"/>ing to the Word of God.</p>
+            <p>
+               <hi>(Let us all pray to our Fa<g ref="char:EOLhyphen"/>ther with one accord.)</hi>
+            </p>
+            <p>God Almighty who art good and wiſe, and haſt fore<g ref="char:EOLhyphen"/>ſeen from the begining, that it was not good for Man to be alone, and therefore didſt create an help meet for him, like unto himſelf, and haſt or<g ref="char:EOLhyphen"/>dained that two ſhould be one. We moſt humbly pray and beſeech thee, ſince it hath pleaſed thee to call theſe here preſent unto the holy State of Matrimony, that thou would be pleaſed of thy bountiful grace to give <hi>them</hi> thy holy Spirit, that they may live in true and ſtedfaſt faith according to thy good will, that they may overcome all Evil Affections, and edify
+<pb n="96" facs="tcp:37318:68"/>others in all Honeſty and Chaſtity; give them thy Bleſſings as thou didſt to thy Faithful Servants, <hi>Abraham, Iſaac</hi> and <hi>Jacob:</hi> That they having an Holy Seed, may praiſe and ſerve thee; inſtru<g ref="char:EOLhyphen"/>cting and nouriſhing them up to thy Praiſe and Glory, and to the Edification of our Neighbours; and the advance<g ref="char:EOLhyphen"/>ment of thy Holy Goſpel. <hi>Hear us moſt merciful Father through our Lord Jeſus Chriſt thy moſt Dear Son.</hi> Amen.</p>
+            <p>Our Lord repleniſh you with his Grace and Good<g ref="char:EOLhyphen"/>neſs, and grant you a long and holy life together <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="postscript">
+            <pb n="97" facs="tcp:37318:68"/>
+            <head>POSTSCRIPT.</head>
+            <p>AS I have mentioned the differences be<g ref="char:EOLhyphen"/>tween the Proteſtant Diſ<g ref="char:EOLhyphen"/>ſenters and the Church of <hi>England,</hi> and the great reſpect paid her, by the reformed Forreign Chur<g ref="char:EOLhyphen"/>ches; So I think fit to conclude, by hinting to the <hi>Romaniſts, Quakers,</hi> &amp;c. That the Differences between Reform'd For<g ref="char:EOLhyphen"/>reign Churches and the
+<pb n="98" facs="tcp:37318:69"/>Church of <hi>England,</hi> are not ſo material and great as ſome have maliciouſly reported. The preſent Controverſies of Papiſts with Papiſts, and of Quakers among them<g ref="char:EOLhyphen"/>ſelves, are conſiderably greater in my Opinion; and the Breach between our <hi>Engliſh</hi> Presbyteri<g ref="char:EOLhyphen"/>ans and Independents I take to be wider.</p>
+            <p>As for that amazing Point of <hi>Abſolute Prede<g ref="char:EOLhyphen"/>ſtination,</hi> it is not ſo much diſputed amongſt the Reformed as the <hi>Roman</hi> Churches. One Order of Monks hath hotly engaged another; The
+<pb n="99" facs="tcp:37318:69"/>Jeſuiſts and Janſeniſts have written ſo many hectoring and ſwelling Volumes upon that knot<g ref="char:EOLhyphen"/>ty Subject, that a ſmall Library will ſcarcely contain them.</p>
+            <p>Whereas, in my poor Apprehenſion, it would be much better to pra<g ref="char:EOLhyphen"/>ctice the Doctrines we profeſs, than to quarrel about them; and to uſe the words of the Learned, Let us, confeſſing that nothing can be done without the Providence of God, Adore in hu<g ref="char:EOLhyphen"/>mility the Secrets which are hid from us, without our enquiry beyond our
+<pb n="100" facs="tcp:37318:70"/>meaſure, and rather ap<g ref="char:EOLhyphen"/>ply to our uſe that which is ſhewn us in the holy Scriptures for to be in re<g ref="char:EOLhyphen"/>poſe and ſecurity. The World had been much happier if all who follow that Judicious Divine Mr. <hi>Calvin</hi> (as well as others) had embraced this ſound, this uſeful and pi<g ref="char:EOLhyphen"/>ous inſtruction.</p>
+            <p>As for the Government of the Church by Bi<g ref="char:EOLhyphen"/>ſhops, the Learned <hi>Cal<g ref="char:EOLhyphen"/>vin</hi> had neither a ſeaſona<g ref="char:EOLhyphen"/>ble time or opportunity to uſe it. It was not fea<g ref="char:EOLhyphen"/>ſible or practicable for him to maintain it; for how could he eſtabliſh Pro<g ref="char:EOLhyphen"/>teſtant
+<pb n="101" facs="tcp:37318:70"/>Biſhops where Po<g ref="char:EOLhyphen"/>piſh Biſhops were ſetled? But I Appeal to the world, if the <hi>Calvinian</hi> Clergy hath not general<g ref="char:EOLhyphen"/>ly ſhewn a great Vene<g ref="char:EOLhyphen"/>ration, both for the Or<g ref="char:EOLhyphen"/>ders and Perſons of our Biſhops; whether they have not admired their Books, and received holy Orders from them. And for a further Demonſtra<g ref="char:EOLhyphen"/>tion of their entire Agree<g ref="char:EOLhyphen"/>ment, few of them, (if any) have ever refuſed a Prebendary, a Deanery, or any Epiſcopal Prefer<g ref="char:EOLhyphen"/>ment.</p>
+            <p>But were there a real Diſagreement in any
+<pb n="102" facs="tcp:37318:71"/>point, with what Fore<g ref="char:EOLhyphen"/>head could a Romaniſt object it? The Arch-Biſhop of <hi>Paris,</hi> unchari<g ref="char:EOLhyphen"/>tably Damns the Arch-Biſhop of <hi>Cambray;</hi> the Biſhop of <hi>Meaux</hi> and others joyn with him; whilſt the Prelate of <hi>Cambray</hi> doth not want a Party who adhere to him: The Pope and his Cardinals are ſtunn'd atit, and for all the Infalibility they pretend to, they cannot eaſily tell on which ſide to determine. The great God compoſe all Diviſions amongſt Chriſtians of what De<g ref="char:EOLhyphen"/>nomination ſoever, let us
+<pb n="103" facs="tcp:37318:71"/>humbly beſeech him to inſpire continually the Univerſal Church with the Spirit of Truth, U<g ref="char:EOLhyphen"/>nity and Concord, and grant that all thoſe who confeſs his Holy Name, may agree in the truth of his holy word, and live in Unity and Godly Love; grant this O Father for Jeſus Chriſt's ſake, our only Mediator and Ad<g ref="char:EOLhyphen"/>vocate. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="guarantee_of_authenticity">
+            <pb n="104" facs="tcp:37318:72"/>
+            <p>FOR the ſatisfaction of all ſuch perſons that doubt of the Truth of this preceeding Tranſlati<g ref="char:EOLhyphen"/>on, they may pleaſe to obſerve, that it hath been Examined by us, and found to be faithfully tranſlated from the <hi>French</hi> Form of Prayers, which was in uſe in the Reform<g ref="char:EOLhyphen"/>ed Churches in <hi>France</hi> a<g ref="char:EOLhyphen"/>mong our Anceſtors, and in our days, whoſe Names are here ſubſcribed.</p>
+            <pb n="105" facs="tcp:37318:72"/>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Miniſters of the <hi>French</hi> Church in the <hi>Savoy.</hi>
+                        <list>
+                           <item>
+                              <hi>T. Satur,</hi>
+                           </item>
+                           <item>
+                              <hi>P. Larriviere,</hi>
+                           </item>
+                           <item>
+                              <hi>C. G. Lamothe,</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Miniſters of the Old <hi>French</hi> Church in <hi>Lon<g ref="char:EOLhyphen"/>don.</hi>
+                        <list>
+                           <item>
+                              <hi>C. Piozet,</hi>
+                           </item>
+                           <item>
+                              <hi>Ch. Bertheau,</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Dubourdieu,</hi> Miniſter of the Old <hi>Frnnch</hi> Church in <hi>Soho.</hi>
+                     </item>
+                     <item>
+                        <hi>A. Gilbert,</hi> Miniſter of the <hi>French</hi> Chappel at the Palace of St. <hi>James.</hi>
+                     </item>
+                     <item>
+                        <hi>C. Pegorie,</hi> Miniſter of the <hi>French</hi> Church near <hi>Leiceſter Fields.</hi>
+                     </item>
+                     <pb n="106" facs="tcp:37318:73"/>
+                     <item>
+                        <hi>La Place,</hi> Miniſter of the <hi>French</hi> Church in <hi>Newport-Market, Soho.</hi>
+                     </item>
+                     <item>
+                        <hi>Blanc,</hi> Miniſter of the <hi>Old Pa<g ref="char:EOLhyphen"/>tant French</hi> Church in <hi>Soho.</hi>
+                     </item>
+                     <item>
+                        <hi>Gally Degaujac,</hi> A <hi>French</hi> Miniſter of an <hi>Engliſh</hi> Church.</item>
+                     <item>
+                        <hi>J. Lions,</hi> Miniſter to ſeveral <hi>French</hi> Churches in and about <hi>London.</hi>
+                     </item>
+                     <item>Miniſters of the New <hi>French</hi> Churches in <hi>London</hi> and in <hi>Hun<g ref="char:EOLhyphen"/>gerford-Market.</hi>
+                        <list>
+                           <item>
+                              <hi>J. Doules,</hi>
+                           </item>
+                           <item>
+                              <hi>J. Lombard,</hi>
+                           </item>
+                           <item>
+                              <hi>Peter Degaleniere,</hi>
+                           </item>
+                           <item>
+                              <hi>John Graverol,</hi>
+                           </item>
+                           <item>
+                              <hi>P. Rouſſilions,</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <pb n="107" facs="tcp:37318:73"/>
+                     <item>
+                        <hi>De Milly Melin,</hi> Miniſter and Reader of the New <hi>French</hi> Church in <hi>London.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <postscript>
+               <p>This Tranſlation hath been carefully compared with the Original, and Corrected by <hi>S. Lyons,</hi> a <hi>French</hi> Miniſter.</p>
+            </postscript>
+         </div>
+      </back>
+   </text>
+</TEI>
